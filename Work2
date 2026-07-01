@@ -1,0 +1,334 @@
+French field
+
+Column
+
+Description
+
+Explanation
+
+Code partenaire
+
+Partner Code
+
+Partner code
+
+Unique identifier of the business partner providing the data.
+
+Code adhérent
+
+Member Code
+
+Member code
+
+Unique identifier of the insured member/enrollee.
+
+Code produit
+
+Product Code
+
+Product code
+
+Internal code identifying the insurance product.
+
+Code formule
+
+Plan Code
+
+Plan code
+
+Internal code identifying the insurance plan/formula.
+
+Code génération de produit
+
+Product Generation Code
+
+Product generation code
+
+Internal code identifying the product version or generation.
+
+Code risque
+
+Risk Code
+
+Risk code
+
+Code identifying the insured risk category.
+
+Code assureur
+
+Insurer Code
+
+Insurer code
+
+Unique identifier of the insurance company.
+
+Clé supplémentaire n°1
+
+Additional Key 1
+
+Additional key 1
+
+Supplementary business key used for identification or integration.
+
+Clé supplémentaire n°2
+
+Additional Key 2
+
+Additional key 2
+
+Supplementary business key used for identification or integration.
+
+Clé supplémentaire n°3
+
+Additional Key 3
+
+Additional key 3
+
+Supplementary business key used for identification or integration.
+
+Date d’émission du gabarit
+
+Template Issue Date
+
+Template issue date
+
+Date when the template was issued or generated.
+
+Périodicité du gabarit
+
+Template Frequency
+
+Template frequency
+
+Frequency associated with the reporting or billing template (e.g. monthly, quarterly).
+
+Code de type de crédit
+
+Credit Type Code
+
+Credit type code
+
+Code identifying the type of credit associated with the record.
+
+Période/Date d’Encaissement
+
+Collection Period/Date
+
+Collection period/date
+
+Period or date when the premium payment was collected.
+
+Date début couverture de la prime
+
+Premium Coverage Start Date
+
+Premium coverage start date
+
+Start date of the coverage period for the premium.
+
+Date fin couverture de la prime
+
+Premium Coverage End Date
+
+Premium coverage end date
+
+End date of the coverage period for the premium.
+
+Date d’émission de la prime
+
+Premium Issue Date
+
+Premium issue date
+
+Date when the premium was issued.
+
+Montant de prime HT
+
+Premium Amount Excluding Tax
+
+Premium amount excluding tax
+
+Premium amount before taxes are applied.
+
+Montant de prime TTC
+
+Premium Amount Including Tax
+
+Premium amount including tax
+
+Premium amount including all applicable taxes.
+
+Prime nette de coassurance
+
+Net Co-insurance Premium
+
+Net co-insurance premium
+
+Net premium amount after applying co-insurance rules.
+
+QP coassurance BNP P.A.
+
+BNP P.A. Co-insurance Share
+
+BNP P.A. co-insurance share
+
+Percentage or share of the co-insurance allocated to BNP P.A.
+
+Montant de taxe d’assurance
+
+Insurance Tax Amount
+
+Insurance tax amount
+
+Amount of insurance tax applied to the premium.
+
+Nombre de contrats d’assuré lié à la prime
+
+Number of Linked Insurance Contracts
+
+Number of linked insurance contracts
+
+Number of insured contracts associated with the premium.
+
+Montant de commission Partenaire
+
+Partner Commission Amount
+
+Partner commission amount
+
+Commission amount allocated to the business partner.
+
+Montant de surcommission Partenaire
+
+Partner Override Commission Amount
+
+Partner override commission amount
+
+Additional commission paid to the partner.
+
+Montant de commission de courtage
+
+Brokerage Commission Amount
+
+Brokerage commission amount
+
+Commission amount allocated to the broker/intermediary.
+
+Montant de commission de gestion
+
+Management Commission Amount
+
+Management commission amount
+
+Commission amount allocated for management services.
+
+Montant de commission d’apérition
+
+Apportionment Commission Amount
+
+Apportionment commission amount
+
+Commission amount related to apportionment/allocation. Business meaning should be confirmed.
+
+Montant de frais de gestion
+
+Management Fee Amount
+
+Management fee amount
+
+Amount charged for management or administrative services.
+
+Montant de l’assistance
+
+Assistance Amount
+
+Assistance amount
+
+Amount related to assistance services included in the product.
+
+Code de produit d’assuré
+
+Insured Product Code
+
+Insured product code
+
+Code identifying the insured person’s product.
+
+Code de l’assuré
+
+Insured Code
+
+Insured code
+
+Unique identifier of the insured person.
+
+Code de civilité d’assuré
+
+Insured Title Code
+
+Insured title code
+
+Code representing the insured person’s title (e.g. Mr, Mrs, Ms).
+
+Sexe assuré
+
+Insured Gender
+
+Insured gender
+
+Gender of the insured person.
+
+Nom d’assuré
+
+Insured Last Name
+
+Insured last name
+
+Surname of the insured person.
+
+Prénom d’assuré
+
+Insured First Name
+
+Insured first name
+
+Given name of the insured person.
+
+Date de naissance de l’assuré*
+
+Insured Date of Birth
+
+Insured date of birth
+
+Date of birth of the insured person.
+
+Code postal assuré
+
+Insured Postal Code
+
+Insured postal code
+
+Postal code of the insured person’s address.
+
+Nombre de contrats d’assuré
+
+Number of Insurance Contracts
+
+Number of insurance contracts
+
+Total number of insurance contracts associated with the insured person.
+
+Date d’encaissement/décaissement
+
+Collection/Disbursement Date
+
+Collection/disbursement date
+
+Date when the payment was collected or disbursed.
+
+Montant de rémunération assureur
+
+Insurer Remuneration Amount
+
+Insurer remuneration amount
+
