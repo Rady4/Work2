@@ -6,329 +6,274 @@ Description
 
 Explanation
 
-Code partenaire
+Mois comptable
 
-Partner Code
+Accounting Month
 
-Partner code
+Accounting month
 
-Unique identifier of the business partner providing the data.
+Accounting period to which the financial data relates.
 
-Code adhérent
+Nbrs de contrats
 
-Member Code
+Number of Contracts
 
-Member code
+Number of contracts
 
-Unique identifier of the insured member/enrollee.
+Total number of insurance contracts.
 
-Code produit
+Nbrs de contrats Encaissés par Evolis
 
-Product Code
+Number of Contracts Collected by Evolis
 
-Product code
+Number of contracts collected by Evolis
 
-Internal code identifying the insurance product.
+Number of contracts for which premium payments were collected by Evolis.
 
-Code formule
+Nbre de Mensualités Prélevées
 
-Plan Code
+Number of Monthly Instalments Collected
 
-Plan code
+Number of monthly instalments collected
 
-Internal code identifying the insurance plan/formula.
+Total number of monthly instalments successfully collected.
 
-Code génération de produit
+Montant total prime perçu TTC
 
-Product Generation Code
+Total Premium Collected Including Tax
 
-Product generation code
+Total premium collected including tax
 
-Internal code identifying the product version or generation.
+Total premium amount received, including all applicable taxes.
 
-Code risque
+Montant total prime perçu TAC
 
-Risk Code
+Total Premium Collected Before Commission
 
-Risk code
+Total premium collected before commission
 
-Code identifying the insured risk category.
+Total premium amount received before commission deductions. Business meaning of TAC should be confirmed.
 
-Code assureur
+Montant total prime perçu HT
 
-Insurer Code
+Total Premium Collected Excluding Tax
 
-Insurer code
+Total premium collected excluding tax
 
-Unique identifier of the insurance company.
+Total premium amount received before taxes.
 
-Clé supplémentaire n°1
+Commission distributeur
 
-Additional Key 1
+Distributor Commission
 
-Additional key 1
+Distributor commission
 
-Supplementary business key used for identification or integration.
+Commission paid to the distributor.
 
-Clé supplémentaire n°2
+Commission Courtier
 
-Additional Key 2
+Broker Commission
 
-Additional key 2
+Broker commission
 
-Supplementary business key used for identification or integration.
+Commission paid to the insurance broker/intermediary.
 
-Clé supplémentaire n°3
+Commission Gestionnaire
 
-Additional Key 3
+Management Commission
 
-Additional key 3
+Management commission
 
-Supplementary business key used for identification or integration.
+Commission paid to the management entity.
 
-Date d’émission du gabarit
+Assureur
 
-Template Issue Date
+Insurer
 
-Template issue date
+Insurer
 
-Date when the template was issued or generated.
+Insurance company responsible for the policy.
 
-Périodicité du gabarit
+Dt Part Evolis
 
-Template Frequency
+Evolis Share
 
-Template frequency
+Evolis share
 
-Frequency associated with the reporting or billing template (e.g. monthly, quarterly).
+Portion or share allocated to Evolis.
 
-Code de type de crédit
+Appel de fond (en valeur)
 
-Credit Type Code
+Funding Request (Amount)
 
-Credit type code
+Funding request amount
 
-Code identifying the type of credit associated with the record.
+Monetary value requested through the funding request.
 
-Période/Date d’Encaissement
+Appel de fond (en nbre)
 
-Collection Period/Date
+Funding Request (Count)
 
-Collection period/date
+Funding request count
 
-Period or date when the premium payment was collected.
+Number of items/contracts included in the funding request.
 
-Date début couverture de la prime
+Mois Encaissement
 
-Premium Coverage Start Date
+Collection Month
 
-Premium coverage start date
+Collection month
 
-Start date of the coverage period for the premium.
+Month in which the premium payment was collected.
 
-Date fin couverture de la prime
+Règlement Evolis
 
-Premium Coverage End Date
+Evolis Settlement
 
-Premium coverage end date
+Evolis settlement
 
-End date of the coverage period for the premium.
+Amount settled or paid by Evolis.
 
-Date d’émission de la prime
+Règlement à percevoir d’Evolis
 
-Premium Issue Date
+Settlement Receivable from Evolis
 
-Premium issue date
+Settlement receivable from Evolis
 
-Date when the premium was issued.
+Amount still to be received from Evolis.
 
-Montant de prime HT
+Date Règlement
 
-Premium Amount Excluding Tax
+Settlement Date
 
-Premium amount excluding tax
+Settlement date
 
-Premium amount before taxes are applied.
+Date on which the settlement/payment was made.
 
-Montant de prime TTC
+Appel de Fonds
 
-Premium Amount Including Tax
+Funding Request
 
-Premium amount including tax
+Funding request
 
-Premium amount including all applicable taxes.
+Identifier or reference of the funding request.
 
-Prime nette de coassurance
+NUMERO_CONTRAT
 
-Net Co-insurance Premium
+Contract Number
 
-Net co-insurance premium
+Contract number
 
-Net premium amount after applying co-insurance rules.
+Unique identifier of the insurance contract.
 
-QP coassurance BNP P.A.
+Date émission
 
-BNP P.A. Co-insurance Share
+Issue Date
 
-BNP P.A. co-insurance share
+Issue date
 
-Percentage or share of the co-insurance allocated to BNP P.A.
+Date when the policy or contract was issued.
 
-Montant de taxe d’assurance
+Date de Signature
 
-Insurance Tax Amount
+Signature Date
 
-Insurance tax amount
+Signature date
 
-Amount of insurance tax applied to the premium.
+Date when the contract was signed.
 
-Nombre de contrats d’assuré lié à la prime
+Date d’effet Contrat
 
-Number of Linked Insurance Contracts
+Contract Effective Date
 
-Number of linked insurance contracts
+Contract effective date
 
-Number of insured contracts associated with the premium.
+Date when the insurance contract became effective.
 
-Montant de commission Partenaire
+Date Fin Effective Contrat
 
-Partner Commission Amount
+Contract End Date
 
-Partner commission amount
+Contract end date
 
-Commission amount allocated to the business partner.
+Date when the insurance contract ended or expires.
 
-Montant de surcommission Partenaire
+CATALOGUE
 
-Partner Override Commission Amount
+Catalogue
 
-Partner override commission amount
+Catalogue
 
-Additional commission paid to the partner.
+Catalogue or product catalogue associated with the contract.
 
-Montant de commission de courtage
+COUVERTURE
 
-Brokerage Commission Amount
+Coverage
 
-Brokerage commission amount
+Coverage
 
-Commission amount allocated to the broker/intermediary.
+Insurance coverage provided by the contract.
 
-Montant de commission de gestion
+Code catalogue
 
-Management Commission Amount
+Catalogue Code
 
-Management commission amount
+Catalogue code
 
-Commission amount allocated for management services.
+Internal code identifying the catalogue or product.
 
-Montant de commission d’apérition
+FAMILLE_LIBELLE
 
-Apportionment Commission Amount
+Product Family Description
 
-Apportionment commission amount
+Product family description
 
-Commission amount related to apportionment/allocation. Business meaning should be confirmed.
+Description of the product family/category.
 
-Montant de frais de gestion
+PXVENTE_TTC
 
-Management Fee Amount
+Sales Price Including Tax
 
-Management fee amount
+Sales price including tax
 
-Amount charged for management or administrative services.
+Selling price including all applicable taxes.
 
-Montant de l’assistance
+NOM CLIENT
 
-Assistance Amount
+Customer Name
 
-Assistance amount
+Customer name
 
-Amount related to assistance services included in the product.
+Name of the customer associated with the contract.
 
-Code de produit d’assuré
+NOM PRENOM CLIENT
 
-Insured Product Code
+Customer Full Name
 
-Insured product code
+Customer full name
 
-Code identifying the insured person’s product.
+Full name of the customer (last name and first name).
 
-Code de l’assuré
+DUREE (année)
 
-Insured Code
+Duration (Years)
 
-Insured code
+Duration in years
 
-Unique identifier of the insured person.
+Contract duration expressed in years.
 
-Code de civilité d’assuré
+NOMBRE DE MOIS A FACTURER
 
-Insured Title Code
+Number of Months to Bill
 
-Insured title code
+Number of months to bill
 
-Code representing the insured person’s title (e.g. Mr, Mrs, Ms).
+Number of months that should be invoiced.
 
-Sexe assuré
+PRIME TAC A REVERSER
 
-Insured Gender
+Premium TAC to be Remitted
 
-Insured gender
+Premium TAC to be remitted
 
-Gender of the insured person.
-
-Nom d’assuré
-
-Insured Last Name
-
-Insured last name
-
-Surname of the insured person.
-
-Prénom d’assuré
-
-Insured First Name
-
-Insured first name
-
-Given name of the insured person.
-
-Date de naissance de l’assuré*
-
-Insured Date of Birth
-
-Insured date of birth
-
-Date of birth of the insured person.
-
-Code postal assuré
-
-Insured Postal Code
-
-Insured postal code
-
-Postal code of the insured person’s address.
-
-Nombre de contrats d’assuré
-
-Number of Insurance Contracts
-
-Number of insurance contracts
-
-Total number of insurance contracts associated with the insured person.
-
-Date d’encaissement/décaissement
-
-Collection/Disbursement Date
-
-Collection/disbursement date
-
-Date when the payment was collected or disbursed.
-
-Montant de rémunération assureur
-
-Insurer Remuneration Amount
-
-Insurer remuneration amount
-
+Premium amount to be transferred/remitted. The exact meaning of TAC should be confirmed.
