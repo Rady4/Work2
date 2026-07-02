@@ -6,74 +6,130 @@ Description
 
 Explanation
 
-Dont remuneration CARDIF Total Avance : Crédit
+Mois
 
-CARDIF Total Advance Remuneration – Credit
+Month
 
-CARDIF total advance remuneration – credit
+Month
 
-Credit amount related to the total advance remuneration allocated to CARDIF.
+Reporting month to which the financial data relates.
 
-Dont remuneration CARDIF Total Avance : Crédit Commissions d’apport linéaires (Dans Précompte)
+Primes assurance HT – Primes HT émises
 
-CARDIF Advance Credit – Linear Acquisition Commissions (Within Prepayment)
+Issued Premiums Excluding Tax
 
-CARDIF advance credit – linear acquisition commissions (within prepayment)
+Issued premiums excluding tax
 
-Credit amount corresponding to linear acquisition commissions included in the prepaid commission mechanism.
+Total insurance premiums issued before taxes during the reporting period.
 
-Dont remuneration CARDIF Total Avance : Crédit Commissions d’apport linéaires (Hors Précompte)
+Primes assurance HT – Annulations primes HT
 
-CARDIF Advance Credit – Linear Acquisition Commissions (Outside Prepayment)
+Cancelled Premiums Excluding Tax
 
-CARDIF advance credit – linear acquisition commissions (outside prepayment)
+Cancelled premiums excluding tax
 
-Credit amount corresponding to linear acquisition commissions excluded from the prepaid commission mechanism.
+Total value of cancelled insurance premiums before taxes.
 
-Dont remuneration CARDIF Total Avance : Crédit Escompte (Dans ou hors Précompte)
+Primes assurance HT – Primes HT Nettes
 
-CARDIF Advance Credit – Discount (Within or Outside Prepayment)
+Net Premiums Excluding Tax
 
-CARDIF advance credit – discount
+Net premiums excluding tax
 
-Credit amount related to discounts, whether included or excluded from the prepaid commission mechanism.
+Net insurance premiums excluding tax after deducting cancellations.
 
-Dont remuneration CARDIF Total Avance : Débit
+Taxes d’assurance – Taxes d’assurance
 
-CARDIF Total Advance Remuneration – Debit
+Insurance Tax
 
-CARDIF total advance remuneration – debit
+Insurance tax
 
-Debit amount related to the total advance remuneration allocated to CARDIF.
+Total insurance tax applied to the issued premiums.
 
-Dont remuneration CARDIF Total Avance : Débit Commissions d’apport précomptées
+Taxes d’assurance – Annulations de taxes d’assurance
 
-CARDIF Advance Debit – Prepaid Acquisition Commissions
+Cancelled Insurance Tax
 
-CARDIF advance debit – prepaid acquisition commissions
+Cancelled insurance tax
 
-Debit amount corresponding to prepaid acquisition commissions.
+Total value of cancelled insurance taxes.
 
-Dont remuneration CARDIF Total Avance : Débit Annulation commissions d’apport précomptées
+Primes assurance TTC (Primes HT nettes + Taxes - Annulations de Taxes)
 
-CARDIF Advance Debit – Cancellation of Prepaid Acquisition Commissions
+Premiums Including Tax
 
-CARDIF advance debit – cancellation of prepaid acquisition commissions
+Premiums including tax
 
-Debit adjustment resulting from the cancellation or reversal of prepaid acquisition commissions.
+Total insurance premiums including taxes, calculated as net premiums excluding tax plus taxes minus cancelled taxes.
 
-Dont remuneration CARDIF Total Avance : Débit Commissions d’apport linéaires (Hors Précompte)
+Commissions d’apport BPLS – Commissions sur CA
 
-CARDIF Advance Debit – Linear Acquisition Commissions (Outside Prepayment)
+BPLS Acquisition Commission
 
-CARDIF advance debit – linear acquisition commissions (outside prepayment)
+BPLS acquisition commission
 
-Debit amount corresponding to linear acquisition commissions excluded from the prepaid commission mechanism.
+Acquisition commissions calculated on the business turnover (CA).
 
-TOTAL DU MOIS A REVERSER AVEC DEDUCTION DU PRECOMPTE
+Commissions d’apport BPLS – Annulations de commissions
 
-Total Monthly Amount to be Remitted After Prepayment Deduction
+Cancelled BPLS Acquisition Commission
 
-Total monthly amount to be remitted after prepayment deduction
+Cancelled BPLS acquisition commission
 
-Final amount to be remitted for the reporting month after deducting all applicable prepaid commissions.
+Total value of cancelled acquisition commissions.
+
+Commissions d’apport BPLS – Commissions nettes d’annulations
+
+Net BPLS Acquisition Commission
+
+Net BPLS acquisition commission
+
+Net acquisition commissions after deducting cancellations.
+
+Commissions de gestion Verlingue – Commissions sur CA 11%
+
+Verlingue Management Commission (11%)
+
+Verlingue management commission (11%)
+
+Management commission payable to Verlingue, calculated at 11% of the business turnover.
+
+Commissions de gestion Verlingue – Annulations de commissions
+
+Cancelled Verlingue Management Commission
+
+Cancelled Verlingue management commission
+
+Total value of cancelled management commissions.
+
+Commissions de gestion Verlingue – Commissions nettes d’annulations
+
+Net Verlingue Management Commission
+
+Net Verlingue management commission
+
+Net management commissions after deducting cancellations.
+
+Prestations réglées par
+
+Claims Paid By
+
+Claims paid by
+
+Identifies the entity responsible for paying insurance claims or benefits.
+
+Montant du virement effectué
+
+Transfer Amount
+
+Transfer amount
+
+Amount transferred to the recipient as part of the financial settlement.
+
+Provisions pour sinistres connus
+
+Outstanding Claims Provision
+
+Outstanding claims provision
+
+Financial provision established for known reported claims that have not yet been fully settled.
