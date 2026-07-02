@@ -1,3 +1,4 @@
+priemiro:
 French field
 
 Column
@@ -6,442 +7,260 @@ Description
 
 Explanation
 
-ENVIRO
+Libellé produit (Mouvements Standards)
 
-Environment
+Product Description (Standard Transactions)
 
-Environment
+Product description (standard transactions)
 
-Environment or source system from which the record originates.
+Name or description of the insurance product associated with standard premium transactions.
 
-PERIOD_AA
+Année Prélèvement de Cotisation
 
-Accounting Year
+Contribution Collection Year
 
-Accounting year
+Contribution collection year
 
-Accounting or reporting year associated with the record.
+Year in which the premium contribution was collected.
 
-Date Elaboration
+Mois Prélèvement de Cotisation
 
-Processing Date
+Contribution Collection Month
 
-Processing date
+Contribution collection month
 
-Date on which the record or report was generated.
+Month in which the premium contribution was collected.
 
-Nature Prime COT
+Code formule
 
-Premium Type
+Plan Code
 
-Premium type
+Plan code
 
-Type or nature of the insurance premium.
+Internal code identifying the insurance plan or formula.
 
-An Elaboration
+Régime Social
 
-Processing Year
+Social Security Scheme
 
-Processing year
+Social security scheme
 
-Year in which the record was generated.
+Social security scheme applicable to the insured person or contract.
 
-Assiette Prime COT
+Cotisations TTC
 
-Premium Calculation Base
+Contributions Including Tax
 
-Premium calculation base
+Contributions including tax
 
-Base amount used to calculate the insurance premium.
+Total premium contributions including all applicable taxes.
 
-Début Reversement
+Commission BNP
 
-Remittance Start Date
+BNP Commission
 
-Remittance start date
+BNP commission
 
-Start date of the remittance period.
+Commission amount allocated to BNP.
 
-Périodicité Prime
+Montant commission Mercer
 
-Premium Frequency
+Mercer Commission Amount
 
-Premium frequency
+Mercer commission amount
 
-Frequency at which the premium is charged (e.g. monthly, quarterly, annually).
+Commission amount allocated to Mercer.
 
-Fin Reversement
+Cotisations TTC nette des commissions BNP
 
-Remittance End Date
+Contributions Including Tax Net of BNP Commissions
 
-Remittance end date
+Contributions including tax net of BNP commissions
 
-End date of the remittance period.
+Total contributions including tax after deducting BNP commissions.
 
-Expression Prime COT
+Base Maladie TTC
 
-Premium Expression
+Health Coverage Base Including Tax
 
-Premium expression
+Health coverage base including tax
 
-Method or basis used to express or calculate the premium.
+Base amount for health coverage including taxes.
 
-Réf Délégataire
+Taxe Maladie
 
-Delegate Reference
+Health Tax
 
-Delegate reference
+Health tax
 
-Reference identifying the delegated entity responsible for contract management.
+Tax applied to the health coverage premium.
 
-Taux Cotisation
+Taxe CMU
 
-Contribution Rate
+CMU Tax
 
-Contribution rate
+CMU tax
 
-Percentage rate used to calculate the premium contribution.
+Tax related to the Couverture Maladie Universelle (CMU).
 
-Réf Porteur risque
+Base Maladie HT
 
-Risk Carrier Reference
+Health Coverage Base Excluding Tax
 
-Risk carrier reference
+Health coverage base excluding tax
 
-Reference identifying the insurer or entity bearing the insurance risk.
+Base amount for health coverage before taxes.
 
-Montant Appelé
+Base Chômage TTC
 
-Amount Called
+Unemployment Coverage Base Including Tax
 
-Amount called
+Unemployment coverage base including tax
 
-Amount requested for payment or invoicing.
+Base amount for unemployment coverage including taxes.
 
-N° Contrat PR
+Taxe Chômage
 
-Risk Carrier Contract Number
+Unemployment Tax
 
-Risk carrier contract number
+Unemployment tax
 
-Contract number associated with the risk carrier.
+Tax applied to the unemployment coverage premium.
 
-Taux Appelé
+Base Chômage HT
 
-Applied Rate
+Unemployment Coverage Base Excluding Tax
 
-Applied rate
+Unemployment coverage base excluding tax
 
-Percentage rate used to calculate the requested amount.
+Base amount for unemployment coverage before taxes.
 
-N° Contrat DG
 
-Management Contract Number
+para o segundo:
+French field
 
-Management contract number
+Column
 
-Contract number associated with the management entity.
+Description
 
-Régul Cot
+Explanation
 
-Contribution Adjustment
+Libellé produit (Mouvements Standards)
 
-Contribution adjustment
+Product Description (Standard Transactions)
 
-Adjustment made to the premium contribution.
+Product description (standard transactions)
 
-Num Affectation
+Name or description of the insurance product associated with the transaction.
 
-Allocation Number
+Année Prélèvement de Cotisation
 
-Allocation number
+Contribution Collection Year
 
-Internal allocation or assignment identifier.
+Contribution collection year
 
-Mnt Enc TTC
+Year in which the premium contribution was collected.
 
-Collected Amount Including Tax
+Mois Prélèvement de Cotisation
 
-Collected amount including tax
+Contribution Collection Month
 
-Total collected amount including all applicable taxes.
+Contribution collection month
 
-SIRET
+Month in which the premium contribution was collected.
 
-SIRET Number
+Régime Social
 
-SIRET number
+Social Security Scheme
 
-Official French establishment identifier (14 digits).
+Social security scheme
 
-Mnt Enc HT
+Social security scheme applicable to the insured person or contract.
 
-Collected Amount Excluding Tax
+Type de Mouvement
 
-Collected amount excluding tax
+Transaction Type
 
-Total collected amount before taxes.
+Transaction type
 
-SIREN
+Type of financial or accounting transaction associated with the rejected payment.
 
-SIREN Number
+Libellé Type de Mouvement
 
-SIREN number
+Transaction Type Description
 
-Official French company identifier (9 digits).
+Transaction type description
 
-Montant Taxes
+Description of the transaction type.
 
-Tax Amount
+Cotisations TTC
 
-Tax amount
+Contributions Including Tax
 
-Total amount of taxes applied.
+Contributions including tax
 
-Raison Sociale
+Total premium contributions including all applicable taxes.
 
-Company Name
+Commission BNP
 
-Company name
+BNP Commission
 
-Registered legal name of the company.
+BNP commission
 
-Date Encaissement
+Commission amount allocated to BNP.
 
-Collection Date
+Base Maladie TTC
 
-Collection date
+Health Coverage Base Including Tax
 
-Date on which the payment was collected.
+Health coverage base including tax
 
-N° SS Souscripteur
+Base amount for health coverage including taxes.
 
-Subscriber Social Security Number
+Taxe Maladie
 
-Subscriber social security number
+Health Tax
 
-Social Security Number of the policyholder/subscriber.
+Health tax
 
-Date Exigibilité
+Tax applied to the health coverage premium.
 
-Due Date
+Taxe CMU
 
-Due date
+CMU Tax
 
-Date on which the payment becomes due.
+CMU tax
 
-Nom Souscripteur
+Tax related to the Couverture Maladie Universelle (CMU).
 
-Subscriber Name
+Base Maladie HT
 
-Subscriber name
+Health Coverage Base Excluding Tax
 
-Name of the policyholder/subscriber.
+Health coverage base excluding tax
 
-Devise Enc
+Base amount for health coverage before taxes.
 
-Collection Currency
+Base Chômage TTC
 
-Collection currency
+Unemployment Coverage Base Including Tax
 
-Currency in which the payment was collected.
+Unemployment coverage base including tax
 
-OPT_SCRIPT
+Base amount for unemployment coverage including taxes.
 
-Script Option
+Taxe Chômage
 
-Script option
+Unemployment Tax
 
-Internal processing option. Business meaning should be confirmed.
+Unemployment tax
 
-Délai Paiement
+Tax applied to the unemployment coverage premium.
 
-Payment Terms
+Base Chômage HT
 
-Payment terms
+Unemployment Coverage Base Excluding Tax
 
-Allowed payment period before the amount becomes overdue.
+Unemployment coverage base excluding tax
 
-CATEG_CONT
-
-Contract Category
-
-Contract category
-
-Category or classification of the insurance contract.
-
-Num Bordereau Appel
-
-Call Statement Number
-
-Call statement number
-
-Identifier of the billing or funding statement.
-
-Salarié Oui Non
-
-Employee Indicator
-
-Employee indicator
-
-Indicates whether the insured person is an employee (Yes/No).
-
-Contencieux O/N
-
-Litigation Indicator
-
-Litigation indicator
-
-Indicates whether the contract is under litigation or debt recovery (Yes/No).
-
-NT_RSQ
-
-Risk Type
-
-Risk type
-
-Internal code identifying the type of insured risk.
-
-Num Reversement
-
-Remittance Number
-
-Remittance number
-
-Identifier of the remittance transaction.
-
-Nature Risque Prév
-
-Risk Nature
-
-Risk nature
-
-Nature or category of the insured risk.
-
-Montant Reversement
-
-Remittance Amount
-
-Remittance amount
-
-Amount remitted to the receiving party.
-
-Num Bordereau Quit
-
-Receipt Statement Number
-
-Receipt statement number
-
-Identifier of the receipt statement or premium statement.
-
-Date Reversement
-
-Remittance Date
-
-Remittance date
-
-Date on which the remittance was made.
-
-Type Bordereau
-
-Statement Type
-
-Statement type
-
-Type of billing or accounting statement.
-
-Escompte O/N
-
-Discount Indicator
-
-Discount indicator
-
-Indicates whether a discount has been applied (Yes/No).
-
-Début de Période
-
-Period Start Date
-
-Period start date
-
-Start date of the reporting or billing period.
-
-Prélevé O/N
-
-Direct Debit Indicator
-
-Direct debit indicator
-
-Indicates whether the payment was collected by direct debit (Yes/No).
-
-Fin de Période
-
-Period End Date
-
-Period end date
-
-End date of the reporting or billing period.
-
-Prélevé O/N
-
-Direct Debit Indicator
-
-Direct debit indicator
-
-Indicates whether the payment was collected by direct debit (Yes/No). (Duplicate column in the source file.)
-
-PERIOD_MM
-
-Accounting Month
-
-Accounting month
-
-Accounting or reporting month associated with the record.
-
-Montant Commission
-
-Commission Amount
-
-Commission amount
-
-Monetary amount of the commission.
-
-Taux Commission
-
-Commission Rate
-
-Commission rate
-
-Percentage rate used to calculate the commission.
-
-Assiette Calcul
-
-Calculation Base
-
-Calculation base
-
-Base amount used for commission or premium calculations.
-
-Montant IG
-
-IG Amount
-
-IG amount
-
-Monetary amount related to IG. Business meaning of the acronym should be confirmed.
-
-Taux Commission
-
-Commission Rate
-
-Commission rate
-
-Percentage rate used to calculate the commission. (Duplicate column in the source file.)
-
-Assiette Calcul
-
-Calculation Base
-
-Calculation base
-
-Base amount used for commission or premium calculations. (Duplicate column in the source file.
+Base amount for unemployment coverage before taxes.
