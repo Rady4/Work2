@@ -1,52 +1,3 @@
-priemiro:
-French field
-
-Column
-
-Description
-
-Explanation
-
-Libellé produit (Mouvements Standards)
-
-Product Description (Standard Transactions)
-
-Product description (standard transactions)
-
-Name or description of the insurance product associated with standard premium transactions.
-
-Année Prélèvement de Cotisation
-
-Contribution Collection Year
-
-Contribution collection year
-
-Year in which the premium contribution was collected.
-
-Mois Prélèvement de Cotisation
-
-Contribution Collection Month
-
-Contribution collection month
-
-Month in which the premium contribution was collected.
-
-Code formule
-
-Plan Code
-
-Plan code
-
-Internal code identifying the insurance plan or formula.
-
-Régime Social
-
-Social Security Scheme
-
-Social security scheme
-
-Social security scheme applicable to the insured person or contract.
-
 Cotisations TTC
 
 Contributions Including Tax
@@ -55,144 +6,45 @@ Contributions including tax
 
 Total premium contributions including all applicable taxes.
 
-Commission BNP
+Cotisations HT
 
-BNP Commission
+Contributions Excluding Tax
 
-BNP commission
+Contributions excluding tax
 
-Commission amount allocated to BNP.
+Total premium contributions before taxes.
 
-Montant commission Mercer
+Rémunération BNP Paribas
 
-Mercer Commission Amount
+BNP Paribas Remuneration
 
-Mercer commission amount
+BNP Paribas remuneration
 
-Commission amount allocated to Mercer.
+Amount of remuneration allocated to BNP Paribas.
 
-Cotisations TTC nette des commissions BNP
+Rémunération SPB
 
-Contributions Including Tax Net of BNP Commissions
+SPB Remuneration
 
-Contributions including tax net of BNP commissions
+SPB remuneration
 
-Total contributions including tax after deducting BNP commissions.
+Amount of remuneration allocated to SPB.
 
-Base Maladie TTC
+Écart d’arrondis
 
-Health Coverage Base Including Tax
+Rounding Difference
 
-Health coverage base including tax
+Rounding difference
 
-Base amount for health coverage including taxes.
+Difference resulting from rounding calculations during financial processing.
 
-Taxe Maladie
+Cotisations nettes
 
-Health Tax
+Net Contributions
 
-Health tax
+Net contributions
 
-Tax applied to the health coverage premium.
-
-Taxe CMU
-
-CMU Tax
-
-CMU tax
-
-Tax related to the Couverture Maladie Universelle (CMU).
-
-Base Maladie HT
-
-Health Coverage Base Excluding Tax
-
-Health coverage base excluding tax
-
-Base amount for health coverage before taxes.
-
-Base Chômage TTC
-
-Unemployment Coverage Base Including Tax
-
-Unemployment coverage base including tax
-
-Base amount for unemployment coverage including taxes.
-
-Taxe Chômage
-
-Unemployment Tax
-
-Unemployment tax
-
-Tax applied to the unemployment coverage premium.
-
-Base Chômage HT
-
-Unemployment Coverage Base Excluding Tax
-
-Unemployment coverage base excluding tax
-
-Base amount for unemployment coverage before taxes.
-
-
-para o segundo:
-French field
-
-Column
-
-Description
-
-Explanation
-
-Libellé produit (Mouvements Standards)
-
-Product Description (Standard Transactions)
-
-Product description (standard transactions)
-
-Name or description of the insurance product associated with the transaction.
-
-Année Prélèvement de Cotisation
-
-Contribution Collection Year
-
-Contribution collection year
-
-Year in which the premium contribution was collected.
-
-Mois Prélèvement de Cotisation
-
-Contribution Collection Month
-
-Contribution collection month
-
-Month in which the premium contribution was collected.
-
-Régime Social
-
-Social Security Scheme
-
-Social security scheme
-
-Social security scheme applicable to the insured person or contract.
-
-Type de Mouvement
-
-Transaction Type
-
-Transaction type
-
-Type of financial or accounting transaction associated with the rejected payment.
-
-Libellé Type de Mouvement
-
-Transaction Type Description
-
-Transaction type description
-
-Description of the transaction type.
-
+segundo 
 Cotisations TTC
 
 Contributions Including Tax
@@ -201,66 +53,45 @@ Contributions including tax
 
 Total premium contributions including all applicable taxes.
 
-Commission BNP
+Cotisations HT
 
-BNP Commission
+Contributions Excluding Tax
 
-BNP commission
+Contributions excluding tax
 
-Commission amount allocated to BNP.
+Total premium contributions before taxes.
 
-Base Maladie TTC
+Rémunération BNP Paribas
 
-Health Coverage Base Including Tax
+BNP Paribas Remuneration
 
-Health coverage base including tax
+BNP Paribas remuneration
 
-Base amount for health coverage including taxes.
+Amount of remuneration allocated to BNP Paribas.
 
-Taxe Maladie
+Rémunération SPB
 
-Health Tax
+SPB Remuneration
 
-Health tax
+SPB remuneration
 
-Tax applied to the health coverage premium.
+Amount of remuneration allocated to SPB.
 
-Taxe CMU
+Écart d’arrondis
 
-CMU Tax
+Rounding Difference
 
-CMU tax
+Rounding difference
 
-Tax related to the Couverture Maladie Universelle (CMU).
+Difference resulting from rounding calculations during financial processing.
 
-Base Maladie HT
+Cotisations nettes
 
-Health Coverage Base Excluding Tax
+Net Contributions
 
-Health coverage base excluding tax
+Net contributions
 
-Base amount for health coverage before taxes.
+Total premium contributions after applying taxes, commissions, adjustments and rounding differences, where applicable.
 
-Base Chômage TTC
 
-Unemployment Coverage Base Including Tax
-
-Unemployment coverage base including tax
-
-Base amount for unemployment coverage including taxes.
-
-Taxe Chômage
-
-Unemployment Tax
-
-Unemployment tax
-
-Tax applied to the unemployment coverage premium.
-
-Base Chômage HT
-
-Unemployment Coverage Base Excluding Tax
-
-Unemployment coverage base excluding tax
-
-Base amount for unemployment coverage before taxes.
+Total premium contributions after applying taxes, commissions, adjustments and rounding differences, where applicable.
