@@ -6,130 +6,442 @@ Description
 
 Explanation
 
-Mois
+ENVIRO
 
-Month
+Environment
 
-Month
+Environment
 
-Reporting month to which the financial data relates.
+Environment or source system from which the record originates.
 
-Primes assurance HT – Primes HT émises
+PERIOD_AA
 
-Issued Premiums Excluding Tax
+Accounting Year
 
-Issued premiums excluding tax
+Accounting year
 
-Total insurance premiums issued before taxes during the reporting period.
+Accounting or reporting year associated with the record.
 
-Primes assurance HT – Annulations primes HT
+Date Elaboration
 
-Cancelled Premiums Excluding Tax
+Processing Date
 
-Cancelled premiums excluding tax
+Processing date
 
-Total value of cancelled insurance premiums before taxes.
+Date on which the record or report was generated.
 
-Primes assurance HT – Primes HT Nettes
+Nature Prime COT
 
-Net Premiums Excluding Tax
+Premium Type
 
-Net premiums excluding tax
+Premium type
 
-Net insurance premiums excluding tax after deducting cancellations.
+Type or nature of the insurance premium.
 
-Taxes d’assurance – Taxes d’assurance
+An Elaboration
 
-Insurance Tax
+Processing Year
 
-Insurance tax
+Processing year
 
-Total insurance tax applied to the issued premiums.
+Year in which the record was generated.
 
-Taxes d’assurance – Annulations de taxes d’assurance
+Assiette Prime COT
 
-Cancelled Insurance Tax
+Premium Calculation Base
 
-Cancelled insurance tax
+Premium calculation base
 
-Total value of cancelled insurance taxes.
+Base amount used to calculate the insurance premium.
 
-Primes assurance TTC (Primes HT nettes + Taxes - Annulations de Taxes)
+Début Reversement
 
-Premiums Including Tax
+Remittance Start Date
 
-Premiums including tax
+Remittance start date
 
-Total insurance premiums including taxes, calculated as net premiums excluding tax plus taxes minus cancelled taxes.
+Start date of the remittance period.
 
-Commissions d’apport BPLS – Commissions sur CA
+Périodicité Prime
 
-BPLS Acquisition Commission
+Premium Frequency
 
-BPLS acquisition commission
+Premium frequency
 
-Acquisition commissions calculated on the business turnover (CA).
+Frequency at which the premium is charged (e.g. monthly, quarterly, annually).
 
-Commissions d’apport BPLS – Annulations de commissions
+Fin Reversement
 
-Cancelled BPLS Acquisition Commission
+Remittance End Date
 
-Cancelled BPLS acquisition commission
+Remittance end date
 
-Total value of cancelled acquisition commissions.
+End date of the remittance period.
 
-Commissions d’apport BPLS – Commissions nettes d’annulations
+Expression Prime COT
 
-Net BPLS Acquisition Commission
+Premium Expression
 
-Net BPLS acquisition commission
+Premium expression
 
-Net acquisition commissions after deducting cancellations.
+Method or basis used to express or calculate the premium.
 
-Commissions de gestion Verlingue – Commissions sur CA 11%
+Réf Délégataire
 
-Verlingue Management Commission (11%)
+Delegate Reference
 
-Verlingue management commission (11%)
+Delegate reference
 
-Management commission payable to Verlingue, calculated at 11% of the business turnover.
+Reference identifying the delegated entity responsible for contract management.
 
-Commissions de gestion Verlingue – Annulations de commissions
+Taux Cotisation
 
-Cancelled Verlingue Management Commission
+Contribution Rate
 
-Cancelled Verlingue management commission
+Contribution rate
 
-Total value of cancelled management commissions.
+Percentage rate used to calculate the premium contribution.
 
-Commissions de gestion Verlingue – Commissions nettes d’annulations
+Réf Porteur risque
 
-Net Verlingue Management Commission
+Risk Carrier Reference
 
-Net Verlingue management commission
+Risk carrier reference
 
-Net management commissions after deducting cancellations.
+Reference identifying the insurer or entity bearing the insurance risk.
 
-Prestations réglées par
+Montant Appelé
 
-Claims Paid By
+Amount Called
 
-Claims paid by
+Amount called
 
-Identifies the entity responsible for paying insurance claims or benefits.
+Amount requested for payment or invoicing.
 
-Montant du virement effectué
+N° Contrat PR
 
-Transfer Amount
+Risk Carrier Contract Number
 
-Transfer amount
+Risk carrier contract number
 
-Amount transferred to the recipient as part of the financial settlement.
+Contract number associated with the risk carrier.
 
-Provisions pour sinistres connus
+Taux Appelé
 
-Outstanding Claims Provision
+Applied Rate
 
-Outstanding claims provision
+Applied rate
 
-Financial provision established for known reported claims that have not yet been fully settled.
+Percentage rate used to calculate the requested amount.
+
+N° Contrat DG
+
+Management Contract Number
+
+Management contract number
+
+Contract number associated with the management entity.
+
+Régul Cot
+
+Contribution Adjustment
+
+Contribution adjustment
+
+Adjustment made to the premium contribution.
+
+Num Affectation
+
+Allocation Number
+
+Allocation number
+
+Internal allocation or assignment identifier.
+
+Mnt Enc TTC
+
+Collected Amount Including Tax
+
+Collected amount including tax
+
+Total collected amount including all applicable taxes.
+
+SIRET
+
+SIRET Number
+
+SIRET number
+
+Official French establishment identifier (14 digits).
+
+Mnt Enc HT
+
+Collected Amount Excluding Tax
+
+Collected amount excluding tax
+
+Total collected amount before taxes.
+
+SIREN
+
+SIREN Number
+
+SIREN number
+
+Official French company identifier (9 digits).
+
+Montant Taxes
+
+Tax Amount
+
+Tax amount
+
+Total amount of taxes applied.
+
+Raison Sociale
+
+Company Name
+
+Company name
+
+Registered legal name of the company.
+
+Date Encaissement
+
+Collection Date
+
+Collection date
+
+Date on which the payment was collected.
+
+N° SS Souscripteur
+
+Subscriber Social Security Number
+
+Subscriber social security number
+
+Social Security Number of the policyholder/subscriber.
+
+Date Exigibilité
+
+Due Date
+
+Due date
+
+Date on which the payment becomes due.
+
+Nom Souscripteur
+
+Subscriber Name
+
+Subscriber name
+
+Name of the policyholder/subscriber.
+
+Devise Enc
+
+Collection Currency
+
+Collection currency
+
+Currency in which the payment was collected.
+
+OPT_SCRIPT
+
+Script Option
+
+Script option
+
+Internal processing option. Business meaning should be confirmed.
+
+Délai Paiement
+
+Payment Terms
+
+Payment terms
+
+Allowed payment period before the amount becomes overdue.
+
+CATEG_CONT
+
+Contract Category
+
+Contract category
+
+Category or classification of the insurance contract.
+
+Num Bordereau Appel
+
+Call Statement Number
+
+Call statement number
+
+Identifier of the billing or funding statement.
+
+Salarié Oui Non
+
+Employee Indicator
+
+Employee indicator
+
+Indicates whether the insured person is an employee (Yes/No).
+
+Contencieux O/N
+
+Litigation Indicator
+
+Litigation indicator
+
+Indicates whether the contract is under litigation or debt recovery (Yes/No).
+
+NT_RSQ
+
+Risk Type
+
+Risk type
+
+Internal code identifying the type of insured risk.
+
+Num Reversement
+
+Remittance Number
+
+Remittance number
+
+Identifier of the remittance transaction.
+
+Nature Risque Prév
+
+Risk Nature
+
+Risk nature
+
+Nature or category of the insured risk.
+
+Montant Reversement
+
+Remittance Amount
+
+Remittance amount
+
+Amount remitted to the receiving party.
+
+Num Bordereau Quit
+
+Receipt Statement Number
+
+Receipt statement number
+
+Identifier of the receipt statement or premium statement.
+
+Date Reversement
+
+Remittance Date
+
+Remittance date
+
+Date on which the remittance was made.
+
+Type Bordereau
+
+Statement Type
+
+Statement type
+
+Type of billing or accounting statement.
+
+Escompte O/N
+
+Discount Indicator
+
+Discount indicator
+
+Indicates whether a discount has been applied (Yes/No).
+
+Début de Période
+
+Period Start Date
+
+Period start date
+
+Start date of the reporting or billing period.
+
+Prélevé O/N
+
+Direct Debit Indicator
+
+Direct debit indicator
+
+Indicates whether the payment was collected by direct debit (Yes/No).
+
+Fin de Période
+
+Period End Date
+
+Period end date
+
+End date of the reporting or billing period.
+
+Prélevé O/N
+
+Direct Debit Indicator
+
+Direct debit indicator
+
+Indicates whether the payment was collected by direct debit (Yes/No). (Duplicate column in the source file.)
+
+PERIOD_MM
+
+Accounting Month
+
+Accounting month
+
+Accounting or reporting month associated with the record.
+
+Montant Commission
+
+Commission Amount
+
+Commission amount
+
+Monetary amount of the commission.
+
+Taux Commission
+
+Commission Rate
+
+Commission rate
+
+Percentage rate used to calculate the commission.
+
+Assiette Calcul
+
+Calculation Base
+
+Calculation base
+
+Base amount used for commission or premium calculations.
+
+Montant IG
+
+IG Amount
+
+IG amount
+
+Monetary amount related to IG. Business meaning of the acronym should be confirmed.
+
+Taux Commission
+
+Commission Rate
+
+Commission rate
+
+Percentage rate used to calculate the commission. (Duplicate column in the source file.)
+
+Assiette Calcul
+
+Calculation Base
+
+Calculation base
+
+Base amount used for commission or premium calculations. (Duplicate column in the source file.
