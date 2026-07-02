@@ -6,380 +6,74 @@ Description
 
 Explanation
 
-DATE PAIEMENT
+Dont remuneration CARDIF Total Avance : Crédit
 
-Payment Date
+CARDIF Total Advance Remuneration – Credit
 
-Payment date
+CARDIF total advance remuneration – credit
 
-Date on which the premium payment was received.
+Credit amount related to the total advance remuneration allocated to CARDIF.
 
-PERIODE DEB
+Dont remuneration CARDIF Total Avance : Crédit Commissions d’apport linéaires (Dans Précompte)
 
-Coverage Start Period
+CARDIF Advance Credit – Linear Acquisition Commissions (Within Prepayment)
 
-Coverage start period
+CARDIF advance credit – linear acquisition commissions (within prepayment)
 
-Start date of the premium coverage period.
+Credit amount corresponding to linear acquisition commissions included in the prepaid commission mechanism.
 
-PERIODE FIN
+Dont remuneration CARDIF Total Avance : Crédit Commissions d’apport linéaires (Hors Précompte)
 
-Coverage End Period
+CARDIF Advance Credit – Linear Acquisition Commissions (Outside Prepayment)
 
-Coverage end period
+CARDIF advance credit – linear acquisition commissions (outside prepayment)
 
-End date of the premium coverage period.
+Credit amount corresponding to linear acquisition commissions excluded from the prepaid commission mechanism.
 
-NUMERO CONTRAT
+Dont remuneration CARDIF Total Avance : Crédit Escompte (Dans ou hors Précompte)
 
-Contract Number
+CARDIF Advance Credit – Discount (Within or Outside Prepayment)
 
-Contract number
+CARDIF advance credit – discount
 
-Unique identifier of the insurance contract.
+Credit amount related to discounts, whether included or excluded from the prepaid commission mechanism.
 
-NOMASSURE
+Dont remuneration CARDIF Total Avance : Débit
 
-Insured Last Name
+CARDIF Total Advance Remuneration – Debit
 
-Insured last name
+CARDIF total advance remuneration – debit
 
-Last name of the insured person.
+Debit amount related to the total advance remuneration allocated to CARDIF.
 
-PRENOMASSURE
+Dont remuneration CARDIF Total Avance : Débit Commissions d’apport précomptées
 
-Insured First Name
+CARDIF Advance Debit – Prepaid Acquisition Commissions
 
-Insured first name
+CARDIF advance debit – prepaid acquisition commissions
 
-First name of the insured person.
+Debit amount corresponding to prepaid acquisition commissions.
 
-DATE DE NAISSANCE ASSURE
+Dont remuneration CARDIF Total Avance : Débit Annulation commissions d’apport précomptées
 
-Insured Date of Birth
+CARDIF Advance Debit – Cancellation of Prepaid Acquisition Commissions
 
-Insured date of birth
+CARDIF advance debit – cancellation of prepaid acquisition commissions
 
-Date of birth of the insured person.
+Debit adjustment resulting from the cancellation or reversal of prepaid acquisition commissions.
 
-NOMTARIF
+Dont remuneration CARDIF Total Avance : Débit Commissions d’apport linéaires (Hors Précompte)
 
-Tariff Name
+CARDIF Advance Debit – Linear Acquisition Commissions (Outside Prepayment)
 
-Tariff name
+CARDIF advance debit – linear acquisition commissions (outside prepayment)
 
-Name of the pricing tariff applied to the contract.
+Debit amount corresponding to linear acquisition commissions excluded from the prepaid commission mechanism.
 
-COMMISSIONS D’APPORT PRECOMPTEES
+TOTAL DU MOIS A REVERSER AVEC DEDUCTION DU PRECOMPTE
 
-Prepaid Acquisition Commission
+Total Monthly Amount to be Remitted After Prepayment Deduction
 
-Prepaid acquisition commission
+Total monthly amount to be remitted after prepayment deduction
 
-Acquisition commission deducted in advance.
-
-ANNULATION COMMISSIONS D’APPORT PRECOMPTEES
-
-Cancellation of Prepaid Acquisition Commission
-
-Cancellation of prepaid acquisition commission
-
-Adjustment or reversal of prepaid acquisition commissions.
-
-TOTAL PRIME
-
-Total Premium
-
-Total premium
-
-Total premium amount for the contract.
-As coberturas são:
-
-* DC = Death
-* PTIA = Permanent and Total Irreversible Disability
-* ITT = Temporary Total Disability
-* IPT = Permanent Total Disability
-* IPP = Permanent Partial Disability
-* Exonération = Premium Waiver
-* Invalidité AERAS 80% = AERAS Disability Coverage (80%)
-French field
-
-Column
-
-Description
-
-Explanation
-
-PRIME PURE
-
-Pure Premium
-
-Pure premium
-
-Premium amount before taxes, commissions and fees.
-
-TAXE
-
-Tax
-
-Tax
-
-Tax amount applied to the premium.
-
-FRAIS ASSUREUR
-
-Insurer Fee
-
-Insurer fee
-
-Fee retained by the insurer.
-
-COMMISSIONS MULTI-IMPACT LINEAIRES
-
-Multi-Impact Commission
-
-Multi-impact commission
-
-Commission allocated to the Multi-Impact distribution channel.
-
-COMMISSIONS D’APPORT LINEAIRES
-
-Acquisition Commission
-
-Acquisition commission
-
-Commission paid for acquiring the insurance contract.
-
-TAUX SURPRIME POURCENTAGE
-
-Premium Loading Rate (%)
-
-Premium loading rate (%)
-
-Percentage surcharge applied due to increased insurance risk.
-
-TAUX SURPRIME POURMILLAGE
-
-Premium Loading Rate (‰)
-
-Premium loading rate (‰)
-
-Per-thousand surcharge applied due to increased insurance risk.
-
-DONT SURPRIME
-
-Premium Loading Amount
-
-Premium loading amount
-
-Portion of the premium corresponding to the surcharge.
-
-French field
-
-Column
-
-Description
-
-Explanation
-
-FRAIS ASSOC
-
-Association Fee
-
-Association fee
-
-Fee charged by the associated organisation.
-
-FRAIS FRACTIONNEMENT
-
-Instalment Fee
-
-Instalment fee
-
-Fee charged for paying the premium in instalments.
-
-MOTIF SURPRIME
-
-Premium Loading Reason
-
-Premium loading reason
-
-Reason for applying a premium surcharge.
-
-TYPE FRACTIONNEMENT
-
-Instalment Type
-
-Instalment type
-
-Frequency or type of premium payment.
-
-REASSUREURS
-
-Reinsurers
-
-Reinsurers
-
-Reinsurance company or companies associated with the contract.
-
-REFERENCES REASSUREURS
-
-Reinsurer References
-
-Reinsurer references
-
-Reference identifiers for the reinsurers.
-
-RESEAUX
-
-Distribution Network
-
-Distribution network
-
-Sales or distribution network associated with the contract.
-
-REFERENCES RESEAUX
-
-Distribution Network References
-
-Distribution network references
-
-Reference identifiers for the distribution network.
-
-BCAC
-
-BCAC
-
-BCAC
-
-Internal business code. Meaning should be confirmed.
-
-REFERENCES BCAC
-
-BCAC References
-
-BCAC references
-
-Reference identifiers associated with BCAC.
-
-NIVEAU AERAS
-
-AERAS Level
-
-AERAS level
-
-AERAS classification level applied to the insured person.
-
-CODE PRODUIT CARDIF
-
-CARDIF Product Code
-
-CARDIF product code
-
-Internal CARDIF product identifier.
-
-Garanties
-
-Coverages
-
-Coverages
-
-List of insurance coverages included in the contract.
-
-Encaissements
-
-Collections
-
-Collections
-
-Premium payments collected.
-
-Frais d’association Encaissements
-
-Association Fee Collections
-
-Association fee collections
-
-Association fees collected with the premium.
-
-TOTAL Encaissements
-
-Total Collections
-
-Total collections
-
-Total amount collected.
-
-Dont rémunération CARDIF Total
-
-CARDIF Total Remuneration
-
-CARDIF total remuneration
-
-Total remuneration allocated to CARDIF.
-
-Dont rémunération CARDIF Prime Pure
-
-CARDIF Pure Premium Remuneration
-
-CARDIF pure premium remuneration
-
-Portion of CARDIF remuneration related to the pure premium.
-
-Dont rémunération CARDIF Taxe
-
-CARDIF Tax Remuneration
-
-CARDIF tax remuneration
-
-Portion of CARDIF remuneration related to taxes.
-
-Dont rémunération CARDIF Frais Assureur
-
-CARDIF Insurer Fee Remuneration
-
-CARDIF insurer fee remuneration
-
-Portion of CARDIF remuneration related to insurer fees.
-
-Dont rémunération CARDIF Total à verser
-
-CARDIF Total Amount Payable
-
-CARDIF total amount payable
-
-Total amount to be paid to CARDIF.
-
-Dont rémunération MULTI-IMPACT Total
-
-Multi-Impact Total Remuneration
-
-Multi-Impact total remuneration
-
-Total remuneration allocated to Multi-Impact.
-
-Dont rémunération MULTI-IMPACT Prime Pure
-
-Multi-Impact Pure Premium Remuneration
-
-Multi-Impact pure premium remuneration
-
-Portion of Multi-Impact remuneration related to the pure premium.
-
-Dont rémunération MULTI-IMPACT Taxe
-
-Multi-Impact Tax Remuneration
-
-Multi-Impact tax remuneration
-
-Portion of Multi-Impact remuneration related to taxes.
-
-Dont rémunération MULTI-IMPACT Commissions d’apport précomptées
-
-Multi-Impact Prepaid Acquisition Commission Remuneration
-
-Multi-Impact prepaid acquisition commission remuneration
-
-Portion of Multi-Impact remuneration related to prepaid acquisition commissions.
-
-
+Final amount to be remitted for the reporting month after deducting all applicable prepaid commissions.
