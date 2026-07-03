@@ -6,13 +6,13 @@ Description
 
 Explanation
 
-Période Début
+Garanties
 
-Period Start
+Coverages
 
-Period start
+Coverages
 
-Start date of the reporting, billing or premium collection period.
+Insurance coverages or benefits included in the policy.
 
 Cotisations TTC
 
@@ -22,29 +22,37 @@ Contributions including tax
 
 Total premium contributions including all applicable taxes.
 
-Cotisations pas de taxes
+Cotisations HT
 
-Contributions Without Tax
+Contributions Excluding Tax
 
-Contributions without tax
+Contributions excluding tax
 
-Premium contributions that are not subject to tax or for which no tax is applied.
+Total premium contributions before taxes.
 
-Rémunération BNP PARIBAS
+Indemnités de gestion du contractant 25%
 
-BNP Paribas Remuneration
+Policyholder Management Fee (25%)
 
-BNP Paribas remuneration
+Policyholder management fee (25%)
 
-Amount of remuneration allocated to BNP Paribas.
+Management fee allocated to the policyholder or contracting entity, calculated at 25%.
 
-Rémunération SPB
+Frais de gestion SPB 8,5%
 
-SPB Remuneration
+SPB Management Fee (8.5%)
 
-SPB remuneration
+SPB management fee (8.5%)
 
-Amount of remuneration allocated to SPB.
+Management fee allocated to SPB, calculated at 8.5% of the applicable base.
+
+Frais de gestion assureur 4,5%
+
+Insurer Management Fee (4.5%)
+
+Insurer management fee (4.5%)
+
+Management fee allocated to the insurer, calculated at 4.5% of the applicable base.
 
 Cotisations nettes
 
@@ -52,12 +60,4 @@ Net Contributions
 
 Net contributions
 
-Total premium contributions after applying commissions, taxes and other applicable adjustments.
-
-Evolution
-
-Evolution
-
-Evolution
-
-Indicates the change or variation in the reported values compared with another reporting period.
+Total premium contributions after deducting applicable fees, commissions and other financial adjustments.
