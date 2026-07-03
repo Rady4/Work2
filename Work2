@@ -1,3 +1,19 @@
+French field
+
+Column
+
+Description
+
+Explanation
+
+Période Début
+
+Period Start
+
+Period start
+
+Start date of the reporting, billing or premium collection period.
+
 Cotisations TTC
 
 Contributions Including Tax
@@ -6,15 +22,15 @@ Contributions including tax
 
 Total premium contributions including all applicable taxes.
 
-Cotisations HT
+Cotisations pas de taxes
 
-Contributions Excluding Tax
+Contributions Without Tax
 
-Contributions excluding tax
+Contributions without tax
 
-Total premium contributions before taxes.
+Premium contributions that are not subject to tax or for which no tax is applied.
 
-Rémunération BNP Paribas
+Rémunération BNP PARIBAS
 
 BNP Paribas Remuneration
 
@@ -30,68 +46,18 @@ SPB remuneration
 
 Amount of remuneration allocated to SPB.
 
-Écart d’arrondis
-
-Rounding Difference
-
-Rounding difference
-
-Difference resulting from rounding calculations during financial processing.
-
 Cotisations nettes
 
 Net Contributions
 
 Net contributions
 
-segundo 
-Cotisations TTC
+Total premium contributions after applying commissions, taxes and other applicable adjustments.
 
-Contributions Including Tax
+Evolution
 
-Contributions including tax
+Evolution
 
-Total premium contributions including all applicable taxes.
+Evolution
 
-Cotisations HT
-
-Contributions Excluding Tax
-
-Contributions excluding tax
-
-Total premium contributions before taxes.
-
-Rémunération BNP Paribas
-
-BNP Paribas Remuneration
-
-BNP Paribas remuneration
-
-Amount of remuneration allocated to BNP Paribas.
-
-Rémunération SPB
-
-SPB Remuneration
-
-SPB remuneration
-
-Amount of remuneration allocated to SPB.
-
-Écart d’arrondis
-
-Rounding Difference
-
-Rounding difference
-
-Difference resulting from rounding calculations during financial processing.
-
-Cotisations nettes
-
-Net Contributions
-
-Net contributions
-
-Total premium contributions after applying taxes, commissions, adjustments and rounding differences, where applicable.
-
-
-Total premium contributions after applying taxes, commissions, adjustments and rounding differences, where applicable.
+Indicates the change or variation in the reported values compared with another reporting period.
