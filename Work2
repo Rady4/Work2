@@ -1,14 +1,79 @@
-Visa CB Distribution
+Contrats
 
-Visa CB Distribution
+Contracts
 
-Visa CB distribution
+Contracts
 
-Distribution of Visa CB cards within the portfolio or reporting scope.
+Insurance contract identifier or number of contracts included in the report.
 
-Volumes portefeuille cartes bancaires ouvertes avant le 13/11/2024 à fin de mois
+Types
 
-End-of-Month Portfolio Volume of Bank Cards Opened Before 13/11/2024
+Type
 
-End-of-month portfolio volume of bank cards opened before 13/11/2024
+Type
 
+Type or category of the insurance contract or premium record.
+
+Nb adh
+
+Number of Members
+
+Number of members
+
+Number of enrolled or insured members associated with the contract.
+
+Prix public
+
+Public Price
+
+Public price
+
+Standard public price of the insurance product before commissions or adjustments.
+
+Commissions totales
+
+Total Commissions
+
+Total commissions
+
+Total commission amount associated with the contract or premium.
+
+Commissions GS
+
+GS Commission
+
+GS commission
+
+Commission amount allocated to the GS entity. (GS appears to be an internal business code.)
+
+Commissions réseaux
+
+Network Commissions
+
+Network commissions
+
+Commission amount allocated to the distribution or sales network.
+
+N° relevé
+
+Statement Number
+
+Statement number
+
+Unique identifier of the premium statement or report.
+
+N° contrat
+
+Contract Number
+
+Contract number
+
+Unique identifier of the insurance contract.
+
+Intitulé du contrat
+
+Contract Name
+
+Contract name
+
+Name or description of the insurance contract.
