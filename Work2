@@ -6,58 +6,34 @@ Description
 
 Explanation
 
-Garanties
+Type de carte et BIN
 
-Coverages
+Card Type and BIN
 
-Coverages
+Card type and BIN
 
-Insurance coverages or benefits included in the policy.
+Identifies the payment card type together with its Bank Identification Number (BIN), which is used to identify the card issuer and card network.
 
-Cotisations TTC
+Cartes valides
 
-Contributions Including Tax
+Valid Cards
 
-Contributions including tax
+Valid cards
 
-Total premium contributions including all applicable taxes.
+Number of valid or active cards associated with the specified card type and BIN.
 
-Cotisations HT
+Tarif annuel TTC (en €)
 
-Contributions Excluding Tax
+Annual Fee Including Tax (€)
 
-Contributions excluding tax
+Annual fee including tax
 
-Total premium contributions before taxes.
+Annual fee charged for the card, including all applicable taxes, expressed in euros.
 
-Indemnités de gestion du contractant 25%
+Facturation du mois (en €)
 
-Policyholder Management Fee (25%)
+Monthly Billing Amount (€)
 
-Policyholder management fee (25%)
+Monthly billing amount
 
-Management fee allocated to the policyholder or contracting entity, calculated at 25%.
-
-Frais de gestion SPB 8,5%
-
-SPB Management Fee (8.5%)
-
-SPB management fee (8.5%)
-
-Management fee allocated to SPB, calculated at 8.5% of the applicable base.
-
-Frais de gestion assureur 4,5%
-
-Insurer Management Fee (4.5%)
-
-Insurer management fee (4.5%)
-
-Management fee allocated to the insurer, calculated at 4.5% of the applicable base.
-
-Cotisations nettes
-
-Net Contributions
-
-Net contributions
-
-Total premium contributions after deducting applicable fees, commissions and other financial adjustments.
+Amount billed during the reporting month, expressed in euros.
