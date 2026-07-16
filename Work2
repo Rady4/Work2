@@ -1,39 +1,14 @@
-French field
+Visa CB Distribution
 
-Column
+Visa CB Distribution
 
-Description
+Visa CB distribution
 
-Explanation
+Distribution of Visa CB cards within the portfolio or reporting scope.
 
-Type de carte et BIN
+Volumes portefeuille cartes bancaires ouvertes avant le 13/11/2024 à fin de mois
 
-Card Type and BIN
+End-of-Month Portfolio Volume of Bank Cards Opened Before 13/11/2024
 
-Card type and BIN
+End-of-month portfolio volume of bank cards opened before 13/11/2024
 
-Identifies the payment card type together with its Bank Identification Number (BIN), which is used to identify the card issuer and card network.
-
-Cartes valides
-
-Valid Cards
-
-Valid cards
-
-Number of valid or active cards associated with the specified card type and BIN.
-
-Tarif annuel TTC (en €)
-
-Annual Fee Including Tax (€)
-
-Annual fee including tax
-
-Annual fee charged for the card, including all applicable taxes, expressed in euros.
-
-Facturation du mois (en €)
-
-Monthly Billing Amount (€)
-
-Monthly billing amount
-
-Amount billed during the reporting month, expressed in euros.
