@@ -1,127 +1,39 @@
-Mois relevé
+French field
 
-Statement Month
-
-Statement month
-
-Reporting month covered by the premium statement.
-
-N° Émission
-
-Issue Number
-
-Issue number
-
-Unique identifier of the premium or statement issuance.
-
-Date
-
-Date
-
-Date
-
-Date associated with the transaction or statement.
-
-Type
-
-Type
-
-Type
-
-Type or category of the transaction or premium record.
-
-Libellé
+Column
 
 Description
 
-Description
+Explanation
 
-Description or label of the transaction or premium item.
+Primes TTC encaissées pour votre compte
 
-Montant HT
+Premiums Including Tax Collected on Your Behalf
 
-Amount Excluding Tax
+Premiums including tax collected on your behalf
 
-Amount excluding tax
+Total insurance premiums, including taxes, collected by CARDIF on behalf of the partner.
 
-Monetary amount before taxes are applied.
+Commissions HT déduites selon calcul joint
 
-Taxes
+Commission Excluding Tax Deducted According to Attached Calculation
 
-Taxes
+Commission excluding tax deducted according to attached calculation
 
-Taxes
+Total commission excluding tax deducted based on the calculation provided in the attached statement.
 
-Tax amount applied to the premium or transaction.
+Frais de gestion
 
-Montant TTC
+Management Fees
 
-Amount Including Tax
+Management fees
 
-Amount including tax
+Administrative or management fees deducted during the settlement process.
 
-Total monetary amount including all applicable taxes.
+Notre règlement
 
-Commissions déduites
+Our Payment
 
-Deducted Commissions
+Our payment
 
-Deducted commissions
-
-Total commissions deducted from the premium amount.
-
-Prime Compagnie
-
-Insurer Premium
-
-Insurer premium
-
-Portion of the premium allocated to the insurance company after applicable deductions.
-
-Nº Relevé
-
-Statement Number
-
-Statement number
-
-Unique identifier of the premium statement or report.
-
-N° Contrat
-
-Contract Number
-
-Contract number
-
-Unique identifier of the insurance contract.
-
-Début Effet
-
-Effective Start Date
-
-Effective start date
-
-Date on which the insurance coverage becomes effective.
-
-Fin Effet
-
-Effective End Date
-
-Effective end date
-
-Date on which the insurance coverage expires or ends.
-
-Polices
-
-Policies
-
-Policies
-
-Insurance policy number(s) associated with the contract or premium record.
-
-Primes
-
-Premiums
-
-Premiums
-
-Premium amount or premium records associated with the contract.
+Net amount paid or transferred by CARDIF after all deductions and adjustments.
