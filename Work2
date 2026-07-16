@@ -1,60 +1,84 @@
-Contrats
+Mois relevé
 
-Contracts
+Statement Month
 
-Contracts
+Statement month
 
-Insurance contract identifier or number of contracts included in the report.
+Reporting month covered by the premium statement.
 
-Types
+N° Émission
+
+Issue Number
+
+Issue number
+
+Unique identifier of the premium or statement issuance.
+
+Date
+
+Date
+
+Date
+
+Date associated with the transaction or statement.
 
 Type
 
 Type
 
-Type or category of the insurance contract or premium record.
+Type
 
-Nb adh
+Type or category of the transaction or premium record.
 
-Number of Members
+Libellé
 
-Number of members
+Description
 
-Number of enrolled or insured members associated with the contract.
+Description
 
-Prix public
+Description or label of the transaction or premium item.
 
-Public Price
+Montant HT
 
-Public price
+Amount Excluding Tax
 
-Standard public price of the insurance product before commissions or adjustments.
+Amount excluding tax
 
-Commissions totales
+Monetary amount before taxes are applied.
 
-Total Commissions
+Taxes
 
-Total commissions
+Taxes
 
-Total commission amount associated with the contract or premium.
+Taxes
 
-Commissions GS
+Tax amount applied to the premium or transaction.
 
-GS Commission
+Montant TTC
 
-GS commission
+Amount Including Tax
 
-Commission amount allocated to the GS entity. (GS appears to be an internal business code.)
+Amount including tax
 
-Commissions réseaux
+Total monetary amount including all applicable taxes.
 
-Network Commissions
+Commissions déduites
 
-Network commissions
+Deducted Commissions
 
-Commission amount allocated to the distribution or sales network.
+Deducted commissions
 
-N° relevé
+Total commissions deducted from the premium amount.
+
+Prime Compagnie
+
+Insurer Premium
+
+Insurer premium
+
+Portion of the premium allocated to the insurance company after applicable deductions.
+
+Nº Relevé
 
 Statement Number
 
@@ -62,7 +86,7 @@ Statement number
 
 Unique identifier of the premium statement or report.
 
-N° contrat
+N° Contrat
 
 Contract Number
 
@@ -70,10 +94,34 @@ Contract number
 
 Unique identifier of the insurance contract.
 
-Intitulé du contrat
+Début Effet
 
-Contract Name
+Effective Start Date
 
-Contract name
+Effective start date
 
-Name or description of the insurance contract.
+Date on which the insurance coverage becomes effective.
+
+Fin Effet
+
+Effective End Date
+
+Effective end date
+
+Date on which the insurance coverage expires or ends.
+
+Polices
+
+Policies
+
+Policies
+
+Insurance policy number(s) associated with the contract or premium record.
+
+Primes
+
+Premiums
+
+Premiums
+
+Premium amount or premium records associated with the contract.
