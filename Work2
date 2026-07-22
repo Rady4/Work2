@@ -1,39 +1,31 @@
-CP
++ Primes TTC encaissées pour votre compte
 
-CP
+Premiums Including Tax Collected on Your Behalf
 
-CP
+Premiums including tax collected on your behalf
 
-Internal code or category used for classification. The exact meaning should be confirmed from the business documentation.
+Total insurance premiums, including taxes, collected by CARDIF on behalf of the partner.
 
-CARDIF
+- Commissions HT déduites selon calcul joint
 
-CARDIF
+Commissions Excluding Tax Deducted According to Attached Calculation
 
-CARDIF
+Commissions excluding tax deducted according to attached calculation
 
-Amount, number of dossiers or value associated with CARDIF, depending on the report context.
+Commission amount before taxes deducted from the collected premiums, based on the attached calculation.
 
-ICARE
+- Frais de Gestion
 
-ICARE
+Management Fees
 
-ICARE
+Management fees
 
-Amount, number of dossiers or value associated with ICARE, depending on the report context.
+Administrative or management fees deducted during the settlement process.
 
-SOLDE
+Notre règlement
 
-Balance
+Our Settlement
 
-Balance
+Our settlement
 
-Remaining balance after all financial movements and adjustments.
-
-ANCIEN SOLDE
-
-Previous Balance
-
-Previous balance
-
-Balance carried forward from the previous reporting or accounting period.
+Net amount paid or transferred by CARDIF after deducting commissions and management fees.
