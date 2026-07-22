@@ -1,31 +1,63 @@
-+ Primes TTC encaissées pour votre compte
+BANQUE
 
-Premiums Including Tax Collected on Your Behalf
+Bank
 
-Premiums including tax collected on your behalf
+Bank
 
-Total insurance premiums, including taxes, collected by CARDIF on behalf of the partner.
+Bank associated with the premium collection or payment transaction.
 
-- Commissions HT déduites selon calcul joint
+OPTION
 
-Commissions Excluding Tax Deducted According to Attached Calculation
+Option
 
-Commissions excluding tax deducted according to attached calculation
+Option
 
-Commission amount before taxes deducted from the collected premiums, based on the attached calculation.
+Insurance option or plan selected for the contract.
 
-- Frais de Gestion
+LIBELLÉ DU FRACTIONNEMENT
 
-Management Fees
+Instalment Plan Description
 
-Management fees
+Instalment plan description
 
-Administrative or management fees deducted during the settlement process.
+Description of the premium payment frequency or instalment plan (e.g. monthly, quarterly, annual).
 
-Notre règlement
+NOMBRE COTISATIONS
 
-Our Settlement
+Number of Contributions
 
-Our settlement
+Number of contributions
 
-Net amount paid or transferred by CARDIF after deducting commissions and management fees.
+Total number of premium contributions for the reporting period.
+
+NOMBRE IMPAYÉS
+
+Number of Unpaid Contributions
+
+Number of unpaid contributions
+
+Total number of premium contributions that remain unpaid.
+
+TOTAL
+
+Total
+
+Total
+
+Total amount or quantity associated with the record, depending on the report context.
+
+MONTANT UNITAIRE TAXE COMPRISE
+
+Unit Amount Including Tax
+
+Unit amount including tax
+
+Amount per individual contribution, including all applicable taxes.
+
+MONTANT TAXE COMPRISE
+
+Amount Including Tax
+
+Amount including tax
+
+Total amount including all applicable taxes.
