@@ -6,14 +6,6 @@ Amount including tax
 
 Total amount including all applicable taxes.
 
-MONTANT TAXE COMPRISE
-
-Amount Including Tax
-
-Amount including tax
-
-Total amount including all applicable taxes. (Duplicate column in the source file.)
-
 RÉGULARISATION DE COTISATIONS*
 
 Contribution Adjustment
@@ -30,13 +22,21 @@ Total amount including tax
 
 Total financial amount including all applicable taxes.
 
-TCA %
+TCA**
 
-Insurance Tax Rate (%)
+Insurance Tax (TCA)
 
-Insurance tax rate (%)
+Insurance tax (TCA)
 
-Percentage rate of the insurance tax (Taxe sur les Conventions d’Assurance – TCA) applied to the premium.
+Amount or rate relating to the Taxe sur les Conventions d’Assurance (TCA). The double asterisk (**) likely refers to a footnote in the report.
+
+COTISATIONS TOTALES HT
+
+Total Contributions Excluding Tax
+
+Total contributions excluding tax
+
+Total premium contributions before taxes are applied.
 
 FRAIS D’ENCAISSEMENT
 
@@ -54,6 +54,14 @@ SPB management fees
 
 Administrative or management fees retained by SPB.
 
+FRAIS D’ACTION COMMERCIALE
+
+Commercial Activity Fees
+
+Commercial activity fees
+
+Fees related to commercial or sales activities associated with the insurance product.
+
 MONTANT NET COMPAGNIE
 
 Net Amount for the Insurer
@@ -70,10 +78,18 @@ Claims to be retained
 
 Claims or claim amounts to be taken into account for the financial settlement or reporting period.
 
-MONTANT DU BORDEREAU
+RÉAJUSTEMENT DE FRAIS D’ENCAISSEMENT
 
-Statement Amount
+Collection Fee Adjustment
 
-Statement amount
+Collection fee adjustment
 
-Total amount recorded in the bordereau (financial statement/report) for the reporting period.
+Adjustment applied to previously charged collection fees.
+
+MONTANT DU
+
+Amount of…
+
+Amount of…
+
+The column header appears to be incomplete in the source file. Its full meaning cannot be determined without the remaining text.
