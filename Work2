@@ -1,15 +1,39 @@
-iCare
+CP
 
-iCare
+CP
 
-iCare
+CP
 
-Number of cases, contracts or records associated with the iCare product or partner, depending on the report context.
+Internal code or category used for classification. The exact meaning should be confirmed from the business documentation.
 
-Solde
+CARDIF
+
+CARDIF
+
+CARDIF
+
+Amount, number of dossiers or value associated with CARDIF, depending on the report context.
+
+ICARE
+
+ICARE
+
+ICARE
+
+Amount, number of dossiers or value associated with ICARE, depending on the report context.
+
+SOLDE
 
 Balance
 
 Balance
 
-Remaining balance after all financial transactions and adjustments have been applied.
+Remaining balance after all financial movements and adjustments.
+
+ANCIEN SOLDE
+
+Previous Balance
+
+Previous balance
+
+Balance carried forward from the previous reporting or accounting period.
