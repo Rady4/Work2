@@ -1,59 +1,3 @@
-BANQUE
-
-Bank
-
-Bank
-
-Bank associated with the premium collection or payment transaction.
-
-OPTION
-
-Option
-
-Option
-
-Insurance option or plan selected for the contract.
-
-LIBELLÉ DU FRACTIONNEMENT
-
-Instalment Plan Description
-
-Instalment plan description
-
-Description of the premium payment frequency or instalment plan (e.g. monthly, quarterly, annual).
-
-NOMBRE COTISATIONS
-
-Number of Contributions
-
-Number of contributions
-
-Total number of premium contributions for the reporting period.
-
-NOMBRE IMPAYÉS
-
-Number of Unpaid Contributions
-
-Number of unpaid contributions
-
-Total number of premium contributions that remain unpaid.
-
-TOTAL
-
-Total
-
-Total
-
-Total amount or quantity associated with the record, depending on the report context.
-
-MONTANT UNITAIRE TAXE COMPRISE
-
-Unit Amount Including Tax
-
-Unit amount including tax
-
-Amount per individual contribution, including all applicable taxes.
-
 MONTANT TAXE COMPRISE
 
 Amount Including Tax
@@ -61,3 +5,75 @@ Amount Including Tax
 Amount including tax
 
 Total amount including all applicable taxes.
+
+MONTANT TAXE COMPRISE
+
+Amount Including Tax
+
+Amount including tax
+
+Total amount including all applicable taxes. (Duplicate column in the source file.)
+
+RÉGULARISATION DE COTISATIONS*
+
+Contribution Adjustment
+
+Contribution adjustment
+
+Adjustment made to premium contributions to correct previous overpayments, underpayments or billing discrepancies.
+
+MONTANT TOTAL TTC
+
+Total Amount Including Tax
+
+Total amount including tax
+
+Total financial amount including all applicable taxes.
+
+TCA %
+
+Insurance Tax Rate (%)
+
+Insurance tax rate (%)
+
+Percentage rate of the insurance tax (Taxe sur les Conventions d’Assurance – TCA) applied to the premium.
+
+FRAIS D’ENCAISSEMENT
+
+Collection Fees
+
+Collection fees
+
+Fees charged for collecting premium payments.
+
+FRAIS DE GESTION SPB
+
+SPB Management Fees
+
+SPB management fees
+
+Administrative or management fees retained by SPB.
+
+MONTANT NET COMPAGNIE
+
+Net Amount for the Insurer
+
+Net amount for the insurer
+
+Net amount payable to the insurance company after deducting applicable commissions, fees and taxes.
+
+SINISTRES À RETENIR
+
+Claims to be Retained
+
+Claims to be retained
+
+Claims or claim amounts to be taken into account for the financial settlement or reporting period.
+
+MONTANT DU BORDEREAU
+
+Statement Amount
+
+Statement amount
+
+Total amount recorded in the bordereau (financial statement/report) for the reporting period.
