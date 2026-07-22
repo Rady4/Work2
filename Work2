@@ -1,74 +1,10 @@
-Quantité
-
-Quantity
-
-Quantity
-
-Number of units, contracts or items included in the invoice line.
-
-PU HT
-
-Unit Price Excluding Tax
-
-Unit price excluding tax
-
-Unit price before taxes are applied.
-
-Total HT
-
-Total Excluding Tax
-
-Total excluding tax
-
-Total amount before taxes.
-
-+ Primes encaissées pour votre compte TTC
-
-Premiums Including Tax Collected on Your Behalf
-
-Premiums including tax collected on your behalf
-
-Total insurance premiums, including taxes, collected by CARDIF on behalf of the partner.
-
-- Commissions HT déduites selon calcul joint
-
-Commission Excluding Tax Deducted According to Attached Calculation
-
-Commission excluding tax deducted according to attached calculation
-
-Total commission excluding tax deducted based on the calculation provided in the attached statement.
-
-- Frais de gestion non soumis à la TVA
-
-Management Fees Not Subject to VAT
-
-Management fees not subject to VAT
-
-Administrative or management fees that are exempt from Value Added Tax (VAT).
-
-CP
-
-CP
-
-CP
-
-Internal business code or category. The exact meaning should be confirmed from the business documentation.
-
-Cardif
-
-Cardif
-
-Cardif
-
-Amount, quantity or value associated with CARDIF.
-
 iCare
 
 iCare
 
 iCare
 
-Amount, quantity or value associated with the iCare product or partner.
+Number of cases, contracts or records associated with the iCare product or partner, depending on the report context.
 
 Solde
 
@@ -76,12 +12,4 @@ Balance
 
 Balance
 
-Remaining balance after all financial transactions and adjustments.
-
-Ancien solde
-
-Previous Balance
-
-Previous balance
-
-Outstanding balance carried forward from the previous accounting or billing period.
+Remaining balance after all financial transactions and adjustments have been applied.
