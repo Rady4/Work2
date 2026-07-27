@@ -1,36 +1,4 @@
-MONTANT TAXE COMPRISE
-
-Amount Including Tax
-
-Amount including tax
-
-Total amount including all applicable taxes.
-
-RÉGULARISATION DE COTISATIONS*
-
-Contribution Adjustment
-
-Contribution adjustment
-
-Adjustment made to premium contributions to correct previous overpayments, underpayments or billing discrepancies.
-
-MONTANT TOTAL TTC
-
-Total Amount Including Tax
-
-Total amount including tax
-
-Total financial amount including all applicable taxes.
-
-TCA**
-
-Insurance Tax (TCA)
-
-Insurance tax (TCA)
-
-Amount or rate relating to the Taxe sur les Conventions d’Assurance (TCA). The double asterisk (**) likely refers to a footnote in the report.
-
-COTISATIONS TOTALES HT
+COTISATIONS TOTALES HORS TAXES
 
 Total Contributions Excluding Tax
 
@@ -38,58 +6,50 @@ Total contributions excluding tax
 
 Total premium contributions before taxes are applied.
 
-FRAIS D’ENCAISSEMENT
+TAXE FISCALE
 
-Collection Fees
+Fiscal Tax
 
-Collection fees
+Fiscal tax
 
-Fees charged for collecting premium payments.
+Tax amount applied to the insurance premium in accordance with applicable tax regulations.
 
-FRAIS DE GESTION SPB
+MONTANT TOTAL DES COTISATIONS
 
-SPB Management Fees
+Total Contribution Amount
 
-SPB management fees
+Total contribution amount
 
-Administrative or management fees retained by SPB.
+Total amount of premium contributions including all applicable components.
 
-FRAIS D’ACTION COMMERCIALE
+COTISATIONS TOTALES HORS TAXES
 
-Commercial Activity Fees
+Total Contributions Excluding Tax
 
-Commercial activity fees
+Total contributions excluding tax
 
-Fees related to commercial or sales activities associated with the insurance product.
+Total premium contributions before taxes are applied. (Duplicate column in the source file.)
 
-MONTANT NET COMPAGNIE
+TAXE FISCALE
 
-Net Amount for the Insurer
+Fiscal Tax
 
-Net amount for the insurer
+Fiscal tax
 
-Net amount payable to the insurance company after deducting applicable commissions, fees and taxes.
+Tax amount applied to the insurance premium in accordance with applicable tax regulations. (Duplicate column in the source file.)
 
-SINISTRES À RETENIR
+MONTANT TOTAL DES COTISATIONS
 
-Claims to be Retained
+Total Contribution Amount
 
-Claims to be retained
+Total contribution amount
 
-Claims or claim amounts to be taken into account for the financial settlement or reporting period.
+Total amount of premium contributions including all applicable components. (Duplicate column in the source file.)
 
-RÉAJUSTEMENT DE FRAIS D’ENCAISSEMENT
+MONTANT FRAIS EXPERTISE MÉDICALE
 
-Collection Fee Adjustment
+Medical Examination Fee Amount
 
-Collection fee adjustment
+Medical examination fee amount
 
-Adjustment applied to previously charged collection fees.
-
-MONTANT DU
-
-Amount of…
-
-Amount of…
-
-The column header appears to be incomplete in the source file. Its full meaning cannot be determined without the remaining text.
+Total amount charged for medical examination or medical assessment fees associated with the insurance application or claim.
