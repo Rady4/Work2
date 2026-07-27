@@ -1,4 +1,20 @@
-COTISATIONS TOTALES HORS TAXES
+NOMBRE DE CARTES
+
+Number of Cards
+
+Number of cards
+
+Total number of cards included in the reporting period or portfolio.
+
+TTC CLIENT MENSUEL
+
+Monthly Customer Amount Including Tax
+
+Monthly customer amount including tax
+
+Monthly amount charged to the customer, including all applicable taxes.
+
+COTISATIONS TOTALES HT
 
 Total Contributions Excluding Tax
 
@@ -6,50 +22,26 @@ Total contributions excluding tax
 
 Total premium contributions before taxes are applied.
 
-TAXE FISCALE
+TCA À 9%
 
-Fiscal Tax
+Insurance Tax (9%)
 
-Fiscal tax
+Insurance tax (9%)
 
-Tax amount applied to the insurance premium in accordance with applicable tax regulations.
+Insurance tax (Taxe sur les Conventions d’Assurance) applied at a rate of 9%.
 
-MONTANT TOTAL DES COTISATIONS
+COTISATIONS TOTALES TTC
 
-Total Contribution Amount
+Total Contributions Including Tax
 
-Total contribution amount
+Total contributions including tax
 
-Total amount of premium contributions including all applicable components.
+Total premium contributions including all applicable taxes.
 
-COTISATIONS TOTALES HORS TAXES
+MONTANT TAXE COMPRISE
 
-Total Contributions Excluding Tax
+Amount Including Tax
 
-Total contributions excluding tax
+Amount including tax
 
-Total premium contributions before taxes are applied. (Duplicate column in the source file.)
-
-TAXE FISCALE
-
-Fiscal Tax
-
-Fiscal tax
-
-Tax amount applied to the insurance premium in accordance with applicable tax regulations. (Duplicate column in the source file.)
-
-MONTANT TOTAL DES COTISATIONS
-
-Total Contribution Amount
-
-Total contribution amount
-
-Total amount of premium contributions including all applicable components. (Duplicate column in the source file.)
-
-MONTANT FRAIS EXPERTISE MÉDICALE
-
-Medical Examination Fee Amount
-
-Medical examination fee amount
-
-Total amount charged for medical examination or medical assessment fees associated with the insurance application or claim.
+Total amount including all applicable taxes.
