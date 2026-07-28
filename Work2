@@ -1,47 +1,63 @@
-NOMBRE DE CARTES
+Période
 
-Number of Cards
+Period
 
-Number of cards
+Period
 
-Total number of cards included in the reporting period or portfolio.
+Reporting or billing period to which the premium contributions relate.
 
-TTC CLIENT MENSUEL
+Option
 
-Monthly Customer Amount Including Tax
+Option
 
-Monthly customer amount including tax
+Option
 
-Monthly amount charged to the customer, including all applicable taxes.
+Insurance option or plan selected for the contract.
 
-COTISATIONS TOTALES HT
+Cotisations TTC
 
-Total Contributions Excluding Tax
+Contributions Including Tax
 
-Total contributions excluding tax
-
-Total premium contributions before taxes are applied.
-
-TCA À 9%
-
-Insurance Tax (9%)
-
-Insurance tax (9%)
-
-Insurance tax (Taxe sur les Conventions d’Assurance) applied at a rate of 9%.
-
-COTISATIONS TOTALES TTC
-
-Total Contributions Including Tax
-
-Total contributions including tax
+Contributions including tax
 
 Total premium contributions including all applicable taxes.
 
-MONTANT TAXE COMPRISE
+Taxes
 
-Amount Including Tax
+Taxes
 
-Amount including tax
+Taxes
 
-Total amount including all applicable taxes.
+Total tax amount applied to the premium contributions.
+
+Cotisations HT
+
+Contributions Excluding Tax
+
+Contributions excluding tax
+
+Total premium contributions before taxes are applied.
+
+Rémunération BNP
+
+BNP Remuneration
+
+BNP remuneration
+
+Amount of remuneration or commission allocated to BNP.
+
+Commissions SPB
+
+SPB Commissions
+
+SPB commissions
+
+Commission amount allocated to SPB for the management or distribution of the insurance product.
+
+Cotisations nettes
+
+Net Contributions
+
+Net contributions
+
+Total premium contributions after deducting applicable commissions, fees and other financial adjustments.
