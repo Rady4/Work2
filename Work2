@@ -1,63 +1,327 @@
-Période
+Code partenaire
 
-Period
+Partner Code
 
-Period
+Partner code
 
-Reporting or billing period to which the premium contributions relate.
+Unique identifier of the business partner providing or distributing the insurance product.
 
-Option
+Code adhérent
 
-Option
+Member Code
 
-Option
+Member code
 
-Insurance option or plan selected for the contract.
+Unique identifier of the member or policyholder.
 
-Cotisations TTC
+Code produit
 
-Contributions Including Tax
+Product Code
 
-Contributions including tax
+Product code
 
-Total premium contributions including all applicable taxes.
+Internal code identifying the insurance product.
 
-Taxes
+Code formule
 
-Taxes
+Plan Code
 
-Taxes
+Plan code
 
-Total tax amount applied to the premium contributions.
+Internal code identifying the insurance plan or coverage option.
 
-Cotisations HT
+Code génération de produit
 
-Contributions Excluding Tax
+Product Generation Code
 
-Contributions excluding tax
+Product generation code
 
-Total premium contributions before taxes are applied.
+Code identifying the version or generation of the insurance product.
 
-Rémunération BNP
+Code risque
 
-BNP Remuneration
+Risk Code
 
-BNP remuneration
+Risk code
 
-Amount of remuneration or commission allocated to BNP.
+Internal code identifying the insured risk category.
 
-Commissions SPB
+Code assureur
 
-SPB Commissions
+Insurer Code
 
-SPB commissions
+Insurer code
 
-Commission amount allocated to SPB for the management or distribution of the insurance product.
+Unique identifier of the insurance company.
 
-Cotisations nettes
+Clé supplémentaire n°1
 
-Net Contributions
+Additional Key No. 1
 
-Net contributions
+Additional key no. 1
 
-Total premium contributions after deducting applicable commissions, fees and other financial adjustments.
+Additional business key used for identification or data processing.
+
+Clé supplémentaire n°2
+
+Additional Key No. 2
+
+Additional key no. 2
+
+Additional business key used for identification or data processing.
+
+Clé supplémentaire n°3
+
+Additional Key No. 3
+
+Additional key no. 3
+
+Additional business key used for identification or data processing.
+
+Date d’émission du gabarit
+
+Template Issue Date
+
+Template issue date
+
+Date on which the premium template or billing template was issued.
+
+Périodicité du gabarit
+
+Template Frequency
+
+Template frequency
+
+Frequency associated with the premium template (e.g. monthly, quarterly, annually).
+
+Code de type de crédit
+
+Credit Type Code
+
+Credit type code
+
+Internal code identifying the type of credit associated with the insurance contract.
+
+Période/Date d’Encaissement
+
+Collection Period/Date
+
+Collection period/date
+
+Period or date on which the premium payment was collected.
+
+Date début couverture de la prime
+
+Premium Coverage Start Date
+
+Premium coverage start date
+
+Date on which the premium coverage begins.
+
+Date fin couverture de la prime
+
+Premium Coverage End Date
+
+Premium coverage end date
+
+Date on which the premium coverage ends.
+
+Date d’émission de la prime
+
+Premium Issue Date
+
+Premium issue date
+
+Date on which the premium was issued.
+
+Montant de prime HT
+
+Premium Amount Excluding Tax
+
+Premium amount excluding tax
+
+Premium amount before taxes.
+
+Montant de prime TTC
+
+Premium Amount Including Tax
+
+Premium amount including tax
+
+Premium amount including all applicable taxes.
+
+Prime nette de coassurance
+
+Net Co-insurance Premium
+
+Net co-insurance premium
+
+Net premium amount allocated to the co-insurance arrangement.
+
+QP coassurance BNP P.A.
+
+BNP P.A. Co-insurance Share
+
+BNP P.A. co-insurance share
+
+Share of the co-insurance allocated to BNP Paribas Assurance.
+
+Montant de taxe d’assurance
+
+Insurance Tax Amount
+
+Insurance tax amount
+
+Total insurance tax applied to the premium.
+
+Nombre de contrats d’assuré lié à la prime
+
+Number of Insured Contracts Linked to the Premium
+
+Number of insured contracts linked to the premium
+
+Number of insurance contracts associated with the premium.
+
+Montant de commission Partenaire
+
+Partner Commission Amount
+
+Partner commission amount
+
+Commission amount allocated to the business partner.
+
+Montant de surcommission Partenaire
+
+Partner Override Commission Amount
+
+Partner override commission amount
+
+Additional commission paid to the partner beyond the standard commission.
+
+Montant de commission de courtage
+
+Brokerage Commission Amount
+
+Brokerage commission amount
+
+Commission paid to the insurance broker.
+
+Montant de commission de gestion
+
+Management Commission Amount
+
+Management commission amount
+
+Commission paid for contract management services.
+
+Montant de commission d’apérition
+
+Inception Commission Amount
+
+Inception commission amount
+
+Commission paid when the insurance contract is first created or activated.
+
+Montant de frais de gestion
+
+Management Fee Amount
+
+Management fee amount
+
+Administrative or management fee amount.
+
+Montant de l’assistance
+
+Assistance Amount
+
+Assistance amount
+
+Amount allocated to assistance services included in the insurance product.
+
+Code de contrat d’assuré
+
+Insured Contract Code
+
+Insured contract code
+
+Unique identifier of the insured person’s contract.
+
+Code de l’assuré
+
+Insured Code
+
+Insured code
+
+Unique identifier of the insured person.
+
+Code de civilité d’assuré
+
+Insured Title Code
+
+Insured title code
+
+Code identifying the insured person’s title (e.g. Mr, Mrs, Ms).
+
+Sexe assuré
+
+Insured Gender
+
+Insured gender
+
+Gender of the insured person.
+
+Nom d’assuré
+
+Insured Last Name
+
+Insured last name
+
+Last name of the insured person.
+
+Prénom d’assuré
+
+Insured First Name
+
+Insured first name
+
+First name of the insured person.
+
+Date de naissance de l’assuré
+
+Insured Date of Birth
+
+Insured date of birth
+
+Date of birth of the insured person.
+
+Code postal assuré
+
+Insured Postal Code
+
+Insured postal code
+
+Postal code of the insured person’s address.
+
+Nombre de contrats d’assuré
+
+Number of Insured Contracts
+
+Number of insured contracts
+
+Total number of insurance contracts held by the insured person.
+
+Date d’encaissement/décaissement
+
+Collection/Disbursement Date
+
+Collection/disbursement date
+
+Date on which the premium was collected or a payment/refund was made.
+
+Montant de rémunération assureur
+
+Insurer Remuneration Amount
+
+Insurer remuneration amount
+
+Amount of remuneration allocated to the insurance company.
