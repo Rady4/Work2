@@ -1,20 +1,61 @@
-Code partenaire
+Sheet: PS_Encaiss_Bancaire_202601
+Date comptable
 
-Partner Code
+Accounting Date
 
-Partner code
+Accounting date
 
-Unique identifier of the business partner providing or distributing the insurance product.
+Date on which the transaction was recorded in the accounting system.
 
-Code adhérent
+Montant
 
-Member Code
+Amount
 
-Member code
+Amount
 
-Unique identifier of the member or policyholder.
+Monetary amount of the payment transaction.
 
-Code produit
+Type paiement
+
+Payment Type
+
+Payment type
+
+Method or type of payment used (e.g. direct debit, bank transfer, card payment).
+
+Identifiant paiement
+
+Payment Identifier
+
+Payment identifier
+
+Unique identifier assigned to the payment transaction.
+
+Date d’encaissement
+
+Collection Date
+
+Collection date
+
+Date on which the payment was successfully collected.
+
+Numéro de remise
+
+Deposit Batch Number
+
+Deposit batch number
+
+Identifier of the bank deposit or payment batch containing the transaction.
+
+Nom du produit
+
+Product Name
+
+Product name
+
+Name of the insurance product associated with the payment.
+
+Code du produit
 
 Product Code
 
@@ -22,255 +63,71 @@ Product code
 
 Internal code identifying the insurance product.
 
-Code formule
+N° externe du contrat
 
-Plan Code
+External Contract Number
 
-Plan code
+External contract number
 
-Internal code identifying the insurance plan or coverage option.
+Contract number used by the partner or an external system.
 
-Code génération de produit
+N° interne contrat
 
-Product Generation Code
+Internal Contract Number
 
-Product generation code
+Internal contract number
 
-Code identifying the version or generation of the insurance product.
+Internal identifier of the insurance contract within the insurer’s systems.
 
-Code risque
+N° payeur de primes
 
-Risk Code
+Premium Payer Number
 
-Risk code
+Premium payer number
 
-Internal code identifying the insured risk category.
+Unique identifier of the person responsible for paying the insurance premiums.
 
-Code assureur
+Civilité payeur de primes
 
-Insurer Code
+Premium Payer Title
 
-Insurer code
+Premium payer title
 
-Unique identifier of the insurance company.
+Title of the premium payer (e.g. Mr, Mrs, Ms).
 
-Clé supplémentaire n°1
+Nom payeur de primes
 
-Additional Key No. 1
+Premium Payer Last Name
 
-Additional key no. 1
+Premium payer last name
 
-Additional business key used for identification or data processing.
+Last name of the premium payer.
 
-Clé supplémentaire n°2
+Prenom payeur de primes
 
-Additional Key No. 2
+Premium Payer First Name
 
-Additional key no. 2
+Premium payer first name
 
-Additional business key used for identification or data processing.
+First name of the premium payer.
 
-Clé supplémentaire n°3
+N° assuré
 
-Additional Key No. 3
+Insured Number
 
-Additional key no. 3
-
-Additional business key used for identification or data processing.
-
-Date d’émission du gabarit
-
-Template Issue Date
-
-Template issue date
-
-Date on which the premium template or billing template was issued.
-
-Périodicité du gabarit
-
-Template Frequency
-
-Template frequency
-
-Frequency associated with the premium template (e.g. monthly, quarterly, annually).
-
-Code de type de crédit
-
-Credit Type Code
-
-Credit type code
-
-Internal code identifying the type of credit associated with the insurance contract.
-
-Période/Date d’Encaissement
-
-Collection Period/Date
-
-Collection period/date
-
-Period or date on which the premium payment was collected.
-
-Date début couverture de la prime
-
-Premium Coverage Start Date
-
-Premium coverage start date
-
-Date on which the premium coverage begins.
-
-Date fin couverture de la prime
-
-Premium Coverage End Date
-
-Premium coverage end date
-
-Date on which the premium coverage ends.
-
-Date d’émission de la prime
-
-Premium Issue Date
-
-Premium issue date
-
-Date on which the premium was issued.
-
-Montant de prime HT
-
-Premium Amount Excluding Tax
-
-Premium amount excluding tax
-
-Premium amount before taxes.
-
-Montant de prime TTC
-
-Premium Amount Including Tax
-
-Premium amount including tax
-
-Premium amount including all applicable taxes.
-
-Prime nette de coassurance
-
-Net Co-insurance Premium
-
-Net co-insurance premium
-
-Net premium amount allocated to the co-insurance arrangement.
-
-QP coassurance BNP P.A.
-
-BNP P.A. Co-insurance Share
-
-BNP P.A. co-insurance share
-
-Share of the co-insurance allocated to BNP Paribas Assurance.
-
-Montant de taxe d’assurance
-
-Insurance Tax Amount
-
-Insurance tax amount
-
-Total insurance tax applied to the premium.
-
-Nombre de contrats d’assuré lié à la prime
-
-Number of Insured Contracts Linked to the Premium
-
-Number of insured contracts linked to the premium
-
-Number of insurance contracts associated with the premium.
-
-Montant de commission Partenaire
-
-Partner Commission Amount
-
-Partner commission amount
-
-Commission amount allocated to the business partner.
-
-Montant de surcommission Partenaire
-
-Partner Override Commission Amount
-
-Partner override commission amount
-
-Additional commission paid to the partner beyond the standard commission.
-
-Montant de commission de courtage
-
-Brokerage Commission Amount
-
-Brokerage commission amount
-
-Commission paid to the insurance broker.
-
-Montant de commission de gestion
-
-Management Commission Amount
-
-Management commission amount
-
-Commission paid for contract management services.
-
-Montant de commission d’apérition
-
-Inception Commission Amount
-
-Inception commission amount
-
-Commission paid when the insurance contract is first created or activated.
-
-Montant de frais de gestion
-
-Management Fee Amount
-
-Management fee amount
-
-Administrative or management fee amount.
-
-Montant de l’assistance
-
-Assistance Amount
-
-Assistance amount
-
-Amount allocated to assistance services included in the insurance product.
-
-Code de contrat d’assuré
-
-Insured Contract Code
-
-Insured contract code
-
-Unique identifier of the insured person’s contract.
-
-Code de l’assuré
-
-Insured Code
-
-Insured code
+Insured number
 
 Unique identifier of the insured person.
 
-Code de civilité d’assuré
+Civilité assuré
 
-Insured Title Code
+Insured Title
 
-Insured title code
+Insured title
 
-Code identifying the insured person’s title (e.g. Mr, Mrs, Ms).
+Title of the insured person (e.g. Mr, Mrs, Ms).
 
-Sexe assuré
-
-Insured Gender
-
-Insured gender
-
-Gender of the insured person.
-
-Nom d’assuré
+Nom assuré
 
 Insured Last Name
 
@@ -278,7 +135,7 @@ Insured last name
 
 Last name of the insured person.
 
-Prénom d’assuré
+Prenom assuré
 
 Insured First Name
 
@@ -286,42 +143,206 @@ Insured first name
 
 First name of the insured person.
 
-Date de naissance de l’assuré
+N° assuré 2
 
-Insured Date of Birth
+Second Insured Number
 
-Insured date of birth
+Second insured number
 
-Date of birth of the insured person.
+Unique identifier of the second insured person, if applicable.
 
-Code postal assuré
+Civilité assuré 2
 
-Insured Postal Code
+Second Insured Title
 
-Insured postal code
+Second insured title
 
-Postal code of the insured person’s address.
+Title of the second insured person.
 
-Nombre de contrats d’assuré
+Nom assuré 2
 
-Number of Insured Contracts
+Second Insured Last Name
 
-Number of insured contracts
+Second insured last name
 
-Total number of insurance contracts held by the insured person.
+Last name of the second insured person.
 
-Date d’encaissement/décaissement
+Prenom assuré 2
 
-Collection/Disbursement Date
+Second Insured First Name
 
-Collection/disbursement date
+Second insured first name
 
-Date on which the premium was collected or a payment/refund was made.
+First name of the second insured person.
 
-Montant de rémunération assureur
+PS_Decaiss_Bancaire_202601
 
-Insurer Remuneration Amount
 
-Insurer remuneration amount
 
-Amount of remuneration allocated to the insurance company.
+Date comptable
+
+Accounting Date
+
+Accounting date
+
+Date on which the transaction was recorded in the accounting system.
+
+Montant
+
+Amount
+
+Amount
+
+Monetary amount of the payment or disbursement transaction.
+
+Type paiement
+
+Payment Type
+
+Payment type
+
+Method or type of payment associated with the transaction.
+
+Identifiant paiement
+
+Payment Identifier
+
+Payment identifier
+
+Unique identifier assigned to the payment transaction.
+
+Date d’encaissement
+
+Collection Date
+
+Collection date
+
+Date associated with the original payment collection. In a disbursement file, this often references the initial collection date.
+
+Nom du produit
+
+Product Name
+
+Product name
+
+Name of the insurance product associated with the transaction.
+
+Code du produit
+
+Product Code
+
+Product code
+
+Internal code identifying the insurance product.
+
+N° externe du contrat
+
+External Contract Number
+
+External contract number
+
+Contract number used by the partner or an external system.
+
+N° interne contrat
+
+Internal Contract Number
+
+Internal contract number
+
+Internal identifier of the insurance contract within the insurer’s systems.
+
+N° payeur de primes
+
+Premium Payer Number
+
+Premium payer number
+
+Unique identifier of the person responsible for paying the insurance premiums.
+
+Civilité payeur de primes
+
+Premium Payer Title
+
+Premium payer title
+
+Title of the premium payer (e.g. Mr, Mrs, Ms).
+
+Nom payeur de primes
+
+Premium Payer Last Name
+
+Premium payer last name
+
+Last name of the premium payer.
+
+Prenom payeur de primes
+
+Premium Payer First Name
+
+Premium payer first name
+
+First name of the premium payer.
+
+N° assuré
+
+Insured Number
+
+Insured number
+
+Unique identifier of the insured person.
+
+Civilité assuré
+
+Insured Title
+
+Insured title
+
+Title of the insured person (e.g. Mr, Mrs, Ms).
+
+Nom assuré
+
+Insured Last Name
+
+Insured last name
+
+Last name of the insured person.
+
+Prenom assuré
+
+Insured First Name
+
+Insured first name
+
+First name of the insured person.
+
+N° assuré 2
+
+Second Insured Number
+
+Second insured number
+
+Unique identifier of the second insured person, if applicable.
+
+Civilité assuré 2
+
+Second Insured Title
+
+Second insured title
+
+Title of the second insured person.
+
+Nom assuré 2
+
+Second Insured Last Name
+
+Second insured last name
+
+Last name of the second insured person.
+
+Prenom assuré 2
+
+Second Insured First Name
+
+Second insured first name
+
+First name of the second insured person.
