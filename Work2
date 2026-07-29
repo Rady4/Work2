@@ -1,191 +1,31 @@
-CTIM 16.01.26 0000227 TRAITEMENT DES PRIMES ASSURANCE
+DATE
 
-Insurance Premium Processing Reference
+Date
 
-Insurance premium processing reference
+Date
 
-Report header containing the processing system identifier, processing date, reference number and report title.
+Date associated with the reporting period, transaction or financial record.
 
-EIDXE ASS25
+Contract NBRE
 
-Processing Code
+Number of Contracts
 
-Processing code
+Number of contracts
 
-Internal processing or application code used to identify the batch.
+Total number of insurance contracts included in the report.
 
-20260116 033623
+Contract montant part BDDF
 
-Processing Timestamp
+Contract Amount – BDDF Share
 
-Processing timestamp
+Contract amount – BDDF share
 
-Date and time when the processing batch was generated (YYYYMMDD HHMMSS).
+Portion of the contract amount allocated to BDDF (Banque de Détail en France).
 
-GROUPE 9983 CARDIF ASSURANCE VIE
+Part CARDIF
 
-Group Identifier
+CARDIF Share
 
-Group identifier
+CARDIF share
 
-Identifies the insurance group or business entity to which the report relates (Group 9983 – CARDIF Assurance Vie).
-
-TYPE DE CONTRAT NPV
-
-NPV Contract Type
-
-NPV contract type
-
-Type or category of contract identified by the internal NPV classification.
-
-NOMBRE DE PRIMES REPRÉSENTÉES
-
-Number of Represented Premiums
-
-Number of represented premiums
-
-Number of premiums carried forward or represented in the processing batch.
-
-NOMBRE DE PRIMES RATTRAPÉES
-
-Number of Recovered Premiums
-
-Number of recovered premiums
-
-Number of premiums recovered or regularised during the reporting period.
-
-NOMBRE DE PRIMES DE LA QUINZAINE
-
-Number of Fortnightly Premiums
-
-Number of fortnightly premiums
-
-Number of premiums processed during the current fortnight.
-
-NOMBRE DE CONTRATS TRAITÉS
-
-Number of Processed Contracts
-
-Number of processed contracts
-
-Total number of insurance contracts processed in the batch.
-
-MONTANT FRAIS AUTRES BANQUES
-
-Other Banks Fee Amount
-
-Other banks fee amount
-
-Total fees charged by banks other than the primary banking institution.
-
-MONTANT PRIMES REPRÉSENTÉES
-
-Represented Premium Amount
-
-Represented premium amount
-
-Total monetary amount of represented premiums.
-
-MONTANT PRIMES DE LA QUINZAINE
-
-Fortnightly Premium Amount
-
-Fortnightly premium amount
-
-Total premium amount processed during the reporting fortnight.
-
-MONTANT TOTAL DES PRIMES
-
-Total Premium Amount
-
-Total premium amount
-
-Total amount of all premiums included in the processing batch.
-
-MONTANT DÉBITS SIÈGE
-
-Head Office Debit Amount
-
-Head office debit amount
-
-Total debit amount processed by the head office.
-
-MONTANT DÉBITS AUTRES SIÈGES
-
-Other Head Offices Debit Amount
-
-Other head offices debit amount
-
-Total debit amount processed by other head offices.
-
-MONTANT DÉBITS AUTRES ÉTABLISSEMENTS
-
-Other Branches Debit Amount
-
-Other branches debit amount
-
-Total debit amount processed by other branches or establishments.
-
-MONTANT TOTAL DES DÉBITS
-
-Total Debit Amount
-
-Total debit amount
-
-Total value of all debit transactions included in the batch.
-
-846786.72
-
-Amount
-
-Amount
-
-Monetary value shown in the report. This appears to be a report value rather than a column header.
-
-991455.43
-
-Amount
-
-Amount
-
-Monetary value shown in the report. This appears to be a report value rather than a column header.
-
-COMPTE À DÉBITER
-
-Account to Debit
-
-Account to debit
-
-Bank account from which the settlement amount will be debited.
-
-01328/00016101423
-
-Bank Account Number
-
-Bank account number
-
-Account number designated for the debit transaction.
-
-dont prime pure
-
-Pure Premium Amount
-
-Pure premium amount
-
-Portion of the total premium corresponding exclusively to the insurance risk, excluding taxes, fees and commissions.
-
-dont frais d’adhésion
-
-Membership Fee Amount
-
-Membership fee amount
-
-Portion of the total amount corresponding to membership or enrolment fees.
-
-dont frais de gestion
-
-Management Fee Amount
-
-Management fee amount
-
-Portion of the total amount corresponding to administrative or management fees.
+Portion of the contract amount or remuneration allocated to CARDIF.
